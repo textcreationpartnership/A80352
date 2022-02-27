@@ -1,0 +1,1209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Madam Mary Carleton, lately stiled the German Princess, truely stated with an historical relation of her birth, education, and fortunes; in an appeal to his illustrious Highness Prince Rupert. By the said Mary Carleton.</title>
+            <author>Carleton, Mary, 1642?-1673.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 131 KB of XML-encoded text transcribed from 163 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80352</idno>
+            <idno type="STC">Wing C586A</idno>
+            <idno type="STC">ESTC R229508</idno>
+            <idno type="EEBO-CITATION">99899226</idno>
+            <idno type="PROQUEST">99899226</idno>
+            <idno type="VID">152596</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80352)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152596)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2307:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Madam Mary Carleton, lately stiled the German Princess, truely stated with an historical relation of her birth, education, and fortunes; in an appeal to his illustrious Highness Prince Rupert. By the said Mary Carleton.</title>
+                  <author>Carleton, Mary, 1642?-1673.</author>
+               </titleStmt>
+               <extent>[13], 84, 73-139 p., plates   </extent>
+               <publicationStmt>
+                  <publisher>printed for Sam: Speed at the Rainbow in Fleetstreet, and Hen: Marsh at the Princes Arms in Chancery-lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXIII. [1663]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text is continuous despite pagination and register.</note>
+                  <note>Signatures: A⁶ E⁶ ² E-² G</note>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Carleton, Mary, 1642?-1673 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:152596:1"/>
+            <p>
+               <figure>
+                  <q>
+                     <l>
+                        <hi>Behold my innocence after such disgrace</hi>
+                     </l>
+                     <l>
+                        <hi>Dares show an honest and a noble Face</hi>
+                     </l>
+                     <l>
+                        <hi>Hence-forth there needs no mark of me be kno<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </hi>
+                     </l>
+                     <l>
+                        <hi>For the right Counterfeit is herein shown</hi>
+                     </l>
+                  </q>
+                  <p>
+                     <hi>Aetatis ma<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> proxemo 22<hi rend="sup">o</hi> Ianuar stilo novo vicesimo primo 1663:</hi>
+                  </p>
+                  <byline>Io. Ch: ſculp: MC</byline>
+                  <figDesc>portrait of Mary Carleton</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:152596:1" rendition="simple:additions"/>
+            <p>THE CASE OF Madam MARY CARLETON, Lately ſtiled <hi>The German Princeſs,</hi> Truely Stated: With an HISTORICAL RELATION OF HER Birth, Education, and Fortunes; IN AN APPEAL TO His Illuſtrious Highneſs PRINCE <hi>R<g ref="char:V">Ʋ</g>PERT.</hi>
+            </p>
+            <p>By the ſaid MARY CARLETON.</p>
+            <q>Sic ſic juvat ire ſub umbra—</q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Sam: Speed</hi> at the Rainbow in Fleetſtreet, and <hi>Hen: Marſh</hi> at the Princes Arms in Chancery-lane. MDCLXIII.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:152596:2"/>
+            <p>
+               <figure>
+                  <head>The most Illustrious PRINCE RUPERT, Elector Palatine of the RHINE, &amp;c.</head>
+                  <figDesc>portrait of Prince Rupert</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:152596:2"/>
+            <head>TO HIS Moſt Illuſtrious Highneſs PRINCE RUPERT, <hi>Count Palatine of the Rhine,</hi> AND <hi>Duke of Cumberland,</hi> &amp;c.</head>
+            <opener>
+               <salute>Great Prince,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>O whom ſhould the injured inno<g ref="char:EOLhyphen"/>cence of a Forain &amp; deſolate woman addreſs it ſelf but to your Noble and Merciful Pro<g ref="char:EOLhyphen"/>tection, who with the <hi>Maje<g ref="char:EOLhyphen"/>ſtical
+<pb facs="tcp:152596:3"/>Glories</hi> of your Re<g ref="char:EOLhyphen"/>lation to this <hi>Crown,</hi> have moſt <hi>condeſcending compaſsi<g ref="char:EOLhyphen"/>ons</hi> to the diſtreſſed and low <hi>eſtate</hi> of the <hi>afflicted.</hi>
+            </p>
+            <p>For when I conſidered the general report of this your Generoſity and Cle<g ref="char:EOLhyphen"/>mencie even in the greateſt incitements of paſſion, a<g ref="char:EOLhyphen"/>midſt the victorious pro<g ref="char:EOLhyphen"/>greſs of your Arms; I could not but preſume Your High<g ref="char:EOLhyphen"/>neſs would open Your ears to the Complaints of an abu<g ref="char:EOLhyphen"/>ſed Woman, in a Caſe where<g ref="char:EOLhyphen"/>in the Laws are altogether as ſilent, us in the loudeſt and clamorous noiſe of the War.</p>
+            <pb facs="tcp:152596:3"/>
+            <pb facs="tcp:152596:4"/>
+            <pb facs="tcp:152596:4"/>
+            <p> Beſides, the different neceſ<g ref="char:EOLhyphen"/>ſity of my Cauſe, and the vin<g ref="char:EOLhyphen"/>dication of it, did inevitablie put me upon your Highneſ<g ref="char:EOLhyphen"/>ſes Patronage. I am traduced and calumniated as an Im<g ref="char:EOLhyphen"/>poſtor (and the ſcandal con<g ref="char:EOLhyphen"/>tinues after all the umbrages of it are vaniſhed) and that <hi>I</hi> am not a <hi>German,</hi> nor ſo well deſcended there as I have al<g ref="char:EOLhyphen"/>ledged, and do and will maintain: Therefore to your Highneſs as the ſacred and fitteſt Sanctarie of this truth I have betook my ſelf; whoſe excellent purity I do ſo re<g ref="char:EOLhyphen"/>vere and honour, that I would not ſoil it with the
+<pb facs="tcp:152596:5"/>leaſt tincture of a pretence, or paint of falſhood for a world.</p>
+            <p>Your Highneſs drew your firſt Princely Breath, which hath ſince filled the Trump of Fame, within the limits of that circle of the <hi>Rhine,</hi> where I was born: and with<g ref="char:EOLhyphen"/>in the Confines of your pa<g ref="char:EOLhyphen"/>ternal Dominions, my In<g ref="char:EOLhyphen"/>fant cries were to be heard; and therefore with all ala<g ref="char:EOLhyphen"/>crity I ſubmit my cauſe, and my <hi>ſtronger cries for Juſtice</hi> to your Highneſs, who partakes equallie of this and my Countrie.</p>
+            <p>Notwithſtanding I ſhould
+<pb facs="tcp:152596:5"/>
+               <pb facs="tcp:152596:6"/>
+               <pb facs="tcp:152596:6"/>not have been ſo bold as to have given your Highneſs this trouble, but that I have been informed you have been graciouſlie pleaſed to pity my ruines, and to ex<g ref="char:EOLhyphen"/>preſs your reſentment of thoſe incivilities I have ſuf<g ref="char:EOLhyphen"/>fered: And indeed that with the juſt indignation of other Noble perſons, who are pleaſed to honour my deſertion and privacy with their company, is the only ſupport I have againſt thoſe miſeries I indure, the more unſupportable becauſe irre<g ref="char:EOLhyphen"/>mediable by the Laws of this Kingdom made againſt <hi>Femes Covert.</hi>
+            </p>
+            <pb facs="tcp:152596:7"/>
+            <p>I take not upon me to diſ<g ref="char:EOLhyphen"/>pute the equity thereof, but in all ſubmiſs obedience do caſt myſelf and my cauſe at your Highneſſes feet, moſt humbly requeſting and be<g ref="char:EOLhyphen"/>ſeeching your Grace and Fa<g ref="char:EOLhyphen"/>vour in ſome extraordinary redreſs to be vouchſafed to</p>
+            <closer>
+               <signed>Your Highneſſes most Obedient and moſt De<g ref="char:EOLhyphen"/>voted Servant, <hi>MARY CARLETON.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="illustrations">
+            <pb facs="tcp:152596:7"/>
+            <p>
+               <figure>
+                  <head>Mary Carlton Cald the German Prince.</head>
+                  <p>AEt: Suae 38</p>
+                  <figDesc>portrait of Mary Carleton</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:152596:8"/>
+            <p>
+               <figure>
+                  <head>Mary Carlton.</head>
+                  <figDesc>portrait of Mary Carleton</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:152596:8"/>
+            <head>TO THE Noble Ladies AND Gentlewomen, OF ENGLAND.</head>
+            <opener>
+               <salute>Madams,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>E pleaſed to lay aſide that ſeverity of your judgement, by which you examine and caſtigate the licitneſs and conveni<g ref="char:EOLhyphen"/>ence
+<pb facs="tcp:152596:9"/>of every of your acti<g ref="char:EOLhyphen"/>ons or paſſages of moment, and therefore ſeldom run into the miſgovernment of Fortune, and caſt a favou<g ref="char:EOLhyphen"/>rable eye upon theſe Novels of my life, not much unlike thoſe of <hi>Boccace,</hi> but that they are more ſerious and tragical.</p>
+            <p>The breach that is made in my Credit and reputati<g ref="char:EOLhyphen"/>on, I do feel and under<g ref="char:EOLhyphen"/>ſtand to be very wide, and
+<pb facs="tcp:152596:9"/>
+               <pb facs="tcp:152596:10"/>
+               <pb facs="tcp:152596:10"/>paſt my repayring, what ever materials of defence, excuſe, and purgation I can bring to the ſcrutiny of men; who are not ſenſi<g ref="char:EOLhyphen"/>ble to what ſudden chan<g ref="char:EOLhyphen"/>ges our natures are ſub<g ref="char:EOLhyphen"/>jected, and that from ay<g ref="char:EOLhyphen"/>ry thoughts and motions, things of great influence, ſometimes good, ſomtimes bad, have been exhibited to the world, equal to the moſt ſober and firm reſo<g ref="char:EOLhyphen"/>lutions
+<pb facs="tcp:152596:11"/>of the valiant and the wiſe.</p>
+            <p>It hath been my miſhap for one among many others to miſcarry in an affayr, to which there are more in<g ref="char:EOLhyphen"/>trigues and perplexities of kin and alliance, and ne<g ref="char:EOLhyphen"/>ceſſary dependance, then to any other thing in the world, <hi>i.e.</hi> marriage: <hi>(Hy<g ref="char:EOLhyphen"/>men</hi> is as blind as Fortune and gives her favours by gueſs) the miſtaken advan<g ref="char:EOLhyphen"/>tages
+<pb facs="tcp:152596:11"/>
+               <pb facs="tcp:152596:12"/>
+               <pb facs="tcp:152596:12"/>whereof, have tur<g ref="char:EOLhyphen"/>ned to my real damage: ſo that when I might have bin happy in my ſelf, I muſt needs tranſplant my con<g ref="char:EOLhyphen"/>tent into a ſterile ungrate<g ref="char:EOLhyphen"/>ful ſoil, and be miſerable by another. Yet have I done nothing diſhonourable to your better beloved Sex, there is nothing of leud<g ref="char:EOLhyphen"/>neſs, baſeneſs or meanneſs in the whole carriage of this noiſed story, nor which
+<pb facs="tcp:152596:13"/>I <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not, cannot juſtifie, as the actions of a Gentlewoman; with the account of which, from the beginning of my life, I here pre<g ref="char:EOLhyphen"/>ſent you.</p>
+            <p>My Fortune not being competent to my mind though proportiona<g ref="char:EOLhyphen"/>ble to any gentile degree, hath frowardly ſhrunk into nothing, but <hi>I</hi> doubt not to buoy both my honor &amp; eſtate up together, when theſe envious clouds are diſpel<g ref="char:EOLhyphen"/>led that obſcure my brightneſs; The ſhadows are at the longeſt, and my fame ſhall ſpeedily riſe in its due luſture, till then, and ever <hi>I</hi> am,</p>
+            <closer>
+               <salute>Ladies,</salute>
+               <signed>your devored Hand-Maid, <hi>MARY CARLETON.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="illustrations">
+            <pb facs="tcp:152596:13"/>
+            <pb facs="tcp:152596:14"/>
+            <p>
+               <figure>
+                  <head>Mary Carlton.</head>
+                  <figDesc>depiction of Mary Carleton</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:152596:14"/>
+            <pb facs="tcp:152596:15"/>
+            <p>
+               <figure>
+                  <head>The German Princess <hi>with her Suppos'd</hi> Husband <hi>and</hi> Lawyer.</head>
+                  <byline>J. Nicholls delin. J. Basire. sculp.</byline>
+                  <figDesc>depiction of Mary Carleton with husband and lawyer</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:152596:16"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:152596:17"/>
+            <head>THE CASE OF Madam <hi>Mary Carleton</hi> The Wife of Mr. <hi>John Carleton,</hi> Formerly ſtiled A German Princeſs.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Am ſo much the the more beholden to my Innocence then to my Fortune, that I dare more confidently appear to the <hi>Vindi<g ref="char:EOLhyphen"/>cation</hi>
+               <pb n="2" facs="tcp:152596:18"/>of the one, then (through the malign deceit and injury of my Adverſaries) to the <hi>vendica<g ref="char:EOLhyphen"/>tion</hi> of the other; And <hi>ch<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<g ref="char:EOLhyphen"/>lenge</hi> my enemies, and the <hi>Spoils</hi> they have made of me, though I dare not <hi>lay claim</hi> to my <hi>Friends,</hi> my <hi>Honour</hi> and my <hi>Eſtate,</hi> which I ſhall keep con<g ref="char:EOLhyphen"/>cealed and inviolable from ſuch rude and miſcheivous hands as my <hi>Perſon</hi> hath been betrayed to. And yet the ſuſpicious, noxious world doth very hardly conceive of me other then a Malefactor, and prefer my Wit and Artful Carriage to my Ho<g ref="char:EOLhyphen"/>neſty, and take this untoward paſſage of my life for ſome fe<g ref="char:EOLhyphen"/>ſtivous and merry accident of the times, and look upon me as a notorious (nay even among the more ingenious, but as a) no<g ref="char:EOLhyphen"/>table perſon.</p>
+            <pb facs="tcp:152596:18"/>
+            <pb facs="tcp:152596:19"/>
+            <pb n="3" facs="tcp:152596:19"/>
+            <p> I can give no other reaſon for this, but the diligent and fore<g ref="char:EOLhyphen"/>ſtalling ſlanders of my accuſers, who by lewd and moſt falſe ſug<g ref="char:EOLhyphen"/>geſtions have precluded all ways to my juſtification and defence; and my own unwearied pati<g ref="char:EOLhyphen"/>ence in ſuffering thoſe calumnies to paſs unrefuted, further then by a legal Trial; not willing to caſt any dirt upon thoſe by way of regeſting thoſe foul mouthed and libellous ſcandals by perſo<g ref="char:EOLhyphen"/>nal reflections; for I concluded that time, and the juſtice of my Cauſe and the Laws of the Kingdom would clearly abſolve me, and that therefore ſuch ex<g ref="char:EOLhyphen"/>aſperations on my part would widen that breach, which the fraudulent covetouſneſs of ſome Relations had made between my Husband and my ſelf, and
+<pb n="4" facs="tcp:152596:20"/>render it irreconciliable, when as I had reſolved to redinte<g ref="char:EOLhyphen"/>grate that affection, we were mutually bound to have for each other.</p>
+            <p>But ſince I have perceived, and have been fully ſatiſfied and informed of their inſatiable and implacable malice againſt me, not onely in proſecuting me with freſh Indictments after the Jury had acquitted me of the former, (though the grand Jury were ſo fully ſenſible of the In<g ref="char:EOLhyphen"/>juſtice and maliciouſneſs there<g ref="char:EOLhyphen"/>of, that they would not receive any more) to ſay nothing alſo of the Witneſſes brought againſt me, the blind and the lame (as to their tales and ſtories) procured by moſt wicked and deteſtable practiſes, (whom God forgive) but by adviſing my Husband af<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:152596:20"/>
+               <pb facs="tcp:152596:21"/>
+               <pb n="5" facs="tcp:152596:21"/>my acquittal to forſake me, and renounce my bed, and ſo defeating me of my Jewels and other things of value of mine own, and leaving and expoſing me deſtitute to the World, and to the pity or ſcorn of people, as my condition ſhall weigh with them: Theſe unſufferable miſ<g ref="char:EOLhyphen"/>cheifs have now at laſt extorted this Narrative from me, which I requeſt the courteous Reader to give Credit to, and equal<g ref="char:EOLhyphen"/>ly and ſeriouſly conſider my Caſe.</p>
+            <p>It hath already made a great noyſe in the World, ſutable to that bluſter my Husbands Friends had raiſed my Fortune and Qualitie to; but thoſe High winds being laid by their weep<g ref="char:EOLhyphen"/>ing ſhowers, I will ſecretly and clearly tell the World the naked
+<pb n="6" facs="tcp:152596:22"/>truth of all this ſtory, having premiſed a ſhort Apology for my ſelf, and given ſome account of this my (Errant-like) Ad<g ref="char:EOLhyphen"/>venture and Peregrination from the place of my native Country.</p>
+            <p>I was born at <hi>Collen</hi> in <hi>Germany,</hi> though incredulous people do take that for a pre<g ref="char:EOLhyphen"/>tence, and better concealment from any reſearch that can be made after me; but as I have declared it before that Honou<g ref="char:EOLhyphen"/>rable Judicature in the <hi>Old Bayly,</hi> whoſe grave and reverend Au<g ref="char:EOLhyphen"/>thority, I hate to prophane and abuſe with a lye; ſo I do again aſſure the World by the greateſt pledges of a Chriſtian, that I am a Native of that place, and did continue in it, or there<g ref="char:EOLhyphen"/>abouts, the moſt part of my life hitherto. They that know it,
+<pb facs="tcp:152596:22"/>
+               <pb facs="tcp:152596:23"/>
+               <pb n="7" facs="tcp:152596:23"/>know it to be one of the Mi<g ref="char:EOLhyphen"/>ſtreſſes and compleateſt Cities in that Empire, not onely famed for the birth of very Illuſtrious perſons of Ancient Times, and the Honour it hath received from them (as I could largely inſtance, eſpecially from its La<g ref="char:EOLhyphen"/>tine adject of <hi>Agrippina</hi>) but for that modern glory it received by the entertainment of the King of Great <hi>Brittain,</hi> who was moſt Hoſpitably and Cordially, and with all imaginable reſpect and Honour treated Here, when by vertue of <hi>Cromwels</hi> League with <hi>France,</hi> he departed that Kingdom.</p>
+            <p>I mention this at large, be<g ref="char:EOLhyphen"/>cauſe hence I took up thoſe Re<g ref="char:EOLhyphen"/>ſolutions, which ſince, with ſo much miſfortune I have put in Execution. I obſerved here
+<pb n="8" facs="tcp:152596:24"/>the courteous civility, and affa<g ref="char:EOLhyphen"/>ble good temper of the Engliſh Nation, for by thoſe Gentle<g ref="char:EOLhyphen"/>men that then attended the King I meaſured his Kingdom. Thoſe were perſons of ſuch win<g ref="char:EOLhyphen"/>ning and obliging carriage, of ſo eaſie and familiar addreſs, and yet of that generoſe and re<g ref="char:EOLhyphen"/>gardful demeanour, that I was hugely taken with ſuch ſweet Conditions, and being then young, by their frequent con<g ref="char:EOLhyphen"/>verſe in the Town, which was conſtantly in my eares, came to ſuch an acceptable knowledge of their manners, that I then thought of paſſing over to that Country, for a fuller ſatisfacti<g ref="char:EOLhyphen"/>on and delight I had promiſed my ſelf among ſuch a people.</p>
+            <p>As to my Parents, who by <hi>Pythagoras</hi> his fancyful Phyloſo<g ref="char:EOLhyphen"/>phy,
+<pb facs="tcp:152596:24"/>
+               <pb facs="tcp:152596:25"/>
+               <pb n="9" facs="tcp:152596:25"/>or rather envious Witch<g ref="char:EOLhyphen"/>craft, have been tranſmigrated into I know not what filthy and vile perſons, of the moſt per<g ref="char:EOLhyphen"/>dite and abhominable ſort of men; I do deſire pardon of their Ghoſts, and ſhall ſprinkle their aſhes with my tears, that I have by my unadviſed and ungover<g ref="char:EOLhyphen"/>ned Reſolution, raiſed them from their quiet and Honoura<g ref="char:EOLhyphen"/>ble Graves, to be the ſuſpicious and leud diſcourſe of every ma<g ref="char:EOLhyphen"/>levolent and buſie tongue. But let ſuch know, that my Fathers name was, <hi>Henry Van Wol<g ref="char:EOLhyphen"/>way,</hi> A Licentiat and Doctor of the Civil Law, and Lord of <hi>Holmſtein,</hi> a man eſteemed for his ſervices done to this City of <hi>Colen,</hi> in mediating their Peace and Security and Neutra<g ref="char:EOLhyphen"/>lity, in the <hi>Swediſh</hi> and <hi>Ger<g ref="char:EOLhyphen"/>man
+<pb n="10" facs="tcp:152596:26"/>War,</hi> and for other effects of his Counſels and Endeavours to our Eccleſiaſtical <hi>Prince Elector,</hi> and the Houſe of <hi>Lorrain,</hi> in all thoſe turmoyls of that Country, in the firſt rupture of the <hi>Spaniſh</hi> and <hi>French</hi> War.</p>
+            <p>I inſtance theſe remarques, becauſe having been ſo long dead ſome nineteen years, I can<g ref="char:EOLhyphen"/>not better deſcribe or Characte<g ref="char:EOLhyphen"/>rize him to ſtrangers, though he were known in his own Country by other great and Noble actions, as well as for his long and ancient deſcent from an honourable Family of that name: which whoſoever ſhall give himſelf the trouble of curi<g ref="char:EOLhyphen"/>oſity in Enquiring, may yet find preſerved from the ruines of a deſtructive, and but juſt com<g ref="char:EOLhyphen"/>poſed conflagration.</p>
+            <pb facs="tcp:152596:26"/>
+            <pb facs="tcp:152596:27"/>
+            <pb n="11" facs="tcp:152596:27"/>
+            <p> It will ſeem fooliſh and ſot<g ref="char:EOLhyphen"/>tiſh flattery in me, to adorn His Monument with any more Elogy, to a ſtrange and per<g ref="char:EOLhyphen"/>haps unbeleiving Nation, who have no faith for any thing they ſee not, or not have heard from plain and undenyable teſtimony. And if I be taken for uncharita<g ref="char:EOLhyphen"/>ble in this rigid imputation, let the practices of thoſe, who have made their unreaſonable incre<g ref="char:EOLhyphen"/>dulity, a pretence to their more barbarous cruelty, be my excuſe to the World.</p>
+            <p>I ſhall not need therefore to particularize any more of him, for places and circumſtances, and the like accidents, will be of no greater demonſtration, or convincing verity, then thoſe punctual relations of Sir <hi>John Mandevile,</hi> concerning things
+<pb n="12" facs="tcp:152596:28"/>that were impoſſible to be in humanity and nature; and I will not ſo much as ſeem to impoſe upon the reader, with thoſe nearer artifices of a Lye. I am capable of doing my ſelf right, (which I ſuppoſe will be too readily interpreted to my diſ<g ref="char:EOLhyphen"/>advantage) by any means, with<g ref="char:EOLhyphen"/>in the compaſs of a womans underſtanding, and therefore if I thought I ſhould need more ordinary ways, I would have applyed my ſelf thereunto.</p>
+            <p>And ſo I will proceed to a further Narrative of my life, having acquainted the Reader, that it pleaſed God to take away both my Father and Mo<g ref="char:EOLhyphen"/>ther before I was full three years old, but my Father died laſt ſuddenly, and left me en<g ref="char:EOLhyphen"/>tirely poſſeſt of his eſtate, with<g ref="char:EOLhyphen"/>out
+<pb facs="tcp:152596:28"/>
+               <pb facs="tcp:152596:29"/>
+               <pb n="13" facs="tcp:152596:29"/>any Guardian or Truſtees; the expectation of many people who had long deſigns both up<g ref="char:EOLhyphen"/>on it and me.</p>
+            <p>Being thus an Orphan, and deſtitute of a Procurator, as we call it in our Law, the Church as next a Kin to ſuch eſtates (and claims the right and diſpoſal of the Ward) ſecured me, and what I had, in their hands, until ſuch time as I ſhould be of age and underſtanding to determine of my ſelf and my Fortunes, which they hoped by ſo early a matriculation, and induction of me into the profeſſion of the Religious, to graſp finally into their hands.</p>
+            <p>By them I was put into the Monaſtery or Nunnery of <hi>Sancta Clara,</hi> at this Infant age, and educated in all ſuch breeding as
+<pb n="14" facs="tcp:152596:30"/>was fit for one devoted to the ſervice of God and his Church, wherein, if ignorance and in<g ref="char:EOLhyphen"/>nocence might render devotion acceptable, my young probati<g ref="char:EOLhyphen"/>on-years I may be confident were not offenſive. But grow<g ref="char:EOLhyphen"/>ing up to ſome capable years, and my active buſie ſoul exer<g ref="char:EOLhyphen"/>ting it ſelf, and biting as it were the bit of this reſtraint and con<g ref="char:EOLhyphen"/>finement; the hours and days of this ſolitude and retirement, in which I was as it were buried as ſoon as I was born, grew moſt irkſome and tedious to me, though I was not yet acquainted with the World. I felt ſome ſuch ſtrong impulſes and natural inſtincts to be ranging abroad, and in action, as the firſt finders of <hi>Terra Incognita,</hi> were urged with, to the diſcovery of thoſe
+<pb facs="tcp:152596:30"/>
+               <pb facs="tcp:152596:31"/>
+               <pb n="15" facs="tcp:152596:31"/>Regions, of whoſe Exiſtence they had no further aſſurance then their own hopeful bodings and divinations.</p>
+            <p>The Diſcipline alſo, began now to aggrieve me, and the more my thoughts wandred and ſtrayed after my roaming and ſtrange fancy of the worlds bravery (which I began now to take notice of, from the gal<g ref="char:EOLhyphen"/>lant appearance of perſons of quality, who frequented our Chappel) the more did the or<g ref="char:EOLhyphen"/>ders of the place ſtreighten and fret me. I began to be weary of my Company, and the pover<g ref="char:EOLhyphen"/>ty of thoſe <hi>Votaries,</hi> called in deriſion, as it were the <hi>Bare<g ref="char:EOLhyphen"/>footed Clares;</hi> and though I ſuf<g ref="char:EOLhyphen"/>fered none of theſe hardſhips, nor underwent any of thoſe nice penances and mortificati<g ref="char:EOLhyphen"/>ons,
+<pb n="16" facs="tcp:152596:32"/>as having no inordinacies of youth to quell and ſubdue, yet the cuſtomary ſeverity of ſuch dealing with that ſweet<g ref="char:EOLhyphen"/>neſs and tenderneſs of our Sex, did much grate me; and I blind<g ref="char:EOLhyphen"/>ly wiſhed I were (what my in<g ref="char:EOLhyphen"/>clinations prompted me <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>) a man, and exempt from that te<g ref="char:EOLhyphen"/>dious life, which yet was ſo much the worſe, becauſe it was altogether paſſive and ſe<g ref="char:EOLhyphen"/>dentary.</p>
+            <p>Nor could I find when more matured, but that Religion when impoſed as a Task, and made an employment, was one of the greateſt burdens I could endure; (though I have learned better things by practiſe and the troubles of the World, and could wiſh my ſelf ſafe in ſuch a retreat from the cares
+<pb facs="tcp:152596:32"/>
+               <pb facs="tcp:152596:33"/>
+               <pb n="17" facs="tcp:152596:33"/>of the future, and the doleful thoughts of my paſt time, and have a zeal for my Religion, the obligations and conduct whereof I have to my ſorrow ſo much in my late unadviſed re<g ref="char:EOLhyphen"/>ſolutions, abdicated and neg<g ref="char:EOLhyphen"/>lected.) I lookt upon it more as conſtraint, and not a voluntary act, wherein I had no manner of election; and my Libertine ſpirit which miſtook bold Humanity, and the dictates of a generous nature, for ſimple and genuine adoration, confirmed me in this opinion, and finally perſwaded me and prevailed with my Rea<g ref="char:EOLhyphen"/>ſon, which grew not up equall with my paſſion, to abandon this ſerene and bliſsful manſion, and venture upon the Worlds alluring, promiſing vanities.</p>
+            <p>I was arrived at that age
+<pb n="18" facs="tcp:152596:34"/>wherein I was capable of being admitted, and profeſſing my ſelf a Nun, and to take upon me the Vows of the Order of per<g ref="char:EOLhyphen"/>petual Virginity, and the like requiſites of that Monaſtical life, and therefore the Fathers and Confeſſors willing to make me a Proſelyte, were very urgent that I would take the Habit and devote my ſelf to a religious life, ſetting before me the ma<g ref="char:EOLhyphen"/>ny examples of ſome excellent Ladies and Gentlewomen then in the Cloyſter (though it be one of the pooreſt Convents of all) who had great and noble friends, and great Eſtates (ſome of them) and had notwithſtand<g ref="char:EOLhyphen"/>ing with all readineſs of mind ſeparated and eſtranged them<g ref="char:EOLhyphen"/>ſelves from all worldly things, and conſecrated themſelves to
+<pb facs="tcp:152596:34"/>
+               <pb facs="tcp:152596:35"/>
+               <pb n="19" facs="tcp:152596:35"/>God. But my reſolutions of forſaking that melancholy and ſilent abode, were ſo far advan<g ref="char:EOLhyphen"/>ced, and ſo obſtinated in me to the proſecution of my maſculine conceptions that I obtained my diſcharge at the ſame time, as I have partly hinted before, that his Majeſty was in <hi>Colen,</hi> whom, with the reſt of the deſirous world I longed to ſee: accom<g ref="char:EOLhyphen"/>panied therefore with my maid who had attended me in the re<g ref="char:EOLhyphen"/>ligious houſe, and a man-ſervant who was my Steward or Bayliff abroad, and had prepared all things for my ſecular eſtate, I went to his Palace, were to paſs other rencounters, I met with a civil perſon, one Mrs. <hi>Margaret Hammond,</hi> the Daugh<g ref="char:EOLhyphen"/>ter of Sir <hi>Richard Hammond,</hi> living ſomewhere then in the
+<pb n="20" facs="tcp:152596:36"/>North of <hi>England,</hi> a very ac<g ref="char:EOLhyphen"/>compliſht woman, who for her Religion had left <hi>England,</hi> in<g ref="char:EOLhyphen"/>tending to have betaken her ſelf to the Engliſh Nunnery at <hi>Lovain;</hi> but ſome difficulties happening therein, ſhe had jour<g ref="char:EOLhyphen"/>nied up hither upon the ſame account, and perceiving me a ſtranger, did me the civility with her Countrimen, as to procure me the ſatisfactory view of the King and his Court, which could do no leſs then ob<g ref="char:EOLhyphen"/>lige me to invite her home, and to deſire her while ſhe ſtaid at <hi>Colen</hi> to make uſe of my houſe, and what entertainment ſhe found.</p>
+            <p>She was pleaſed to accept of this offer, and hereupon my curioſity having attained ſome part of its wiſh, we began to
+<pb facs="tcp:152596:36"/>
+               <pb facs="tcp:152596:37"/>
+               <pb n="21" facs="tcp:152596:37"/>be familiar, and I for my part to enquire into her condition, the reaſon of her travail, and the news of the world, of all which ſhe gave me ſo delight<g ref="char:EOLhyphen"/>ful an account, inſinuating the neceſſity of her condition, with the perfection of her Endow<g ref="char:EOLhyphen"/>ments; that I told her if ſhe could think it anſwerable to her content, to ſtay with me, and be my Governeſs, ſhe ſhould plentifully partake of my for<g ref="char:EOLhyphen"/>tunes.</p>
+            <p>We agreed: but not to weary the Reader with thoſe Inſtructi<g ref="char:EOLhyphen"/>ons and fundamentals of Edu<g ref="char:EOLhyphen"/>cation ſhe laid, as ſhe was a rare and abſolute Miſtreſs of all thoſe Arts, it will be ſufficient to declare, that ſeeing ſo much vertue in her, my greedineſs of communicating with it more
+<pb n="22" facs="tcp:152596:38"/>freely and clearly, put me upon giving her the trouble of teach<g ref="char:EOLhyphen"/>ing me the Engliſh tongue, the lockt repoſitory of ſo many Ex<g ref="char:EOLhyphen"/>cellencies.</p>
+            <p>This by a fond and moſt plea<g ref="char:EOLhyphen"/>ſing diligence, I pretty well at<g ref="char:EOLhyphen"/>tained in a years time, having my Governeſs always in my company, whither abroad, as I I uſed to ride ſome miles, by Coach, or elſe paſs in a Plea<g ref="char:EOLhyphen"/>ſure-boat in the Summer, to acquaint my ſelf firſt with my own Country; the tenderneſs of my years, offering no man the occaſion or thoughts of Love or Marriage, by which means I paſſed free and unobſerved, and then returned again to my Country retirement neer the City.</p>
+            <pb facs="tcp:152596:38"/>
+            <pb facs="tcp:152596:39"/>
+            <pb n="23" facs="tcp:152596:39"/>
+            <p> I now addicted my ſelf to the reading of Hiſtory, and then to take off the gravity and ſeri<g ref="char:EOLhyphen"/>ouſneſs of that ſtudy, to more facile paſtimes of literature; Romances, and other Heroical Adblandiments, which being written for the moſt and beſt part in <hi>French,</hi> I made that my next buſineſs, though of leſ<g ref="char:EOLhyphen"/>ſer difficulty, to gain a know<g ref="char:EOLhyphen"/>ledge in that Tongue, which being counterminous to ours, and ſpoke promiſcuouſly in the adjacent provinces of the <hi>Wal<g ref="char:EOLhyphen"/>loon</hi> Country, rendred it ſelf at my devotion.</p>
+            <p>The felicity of theſe two, put me upon a deſire of attaquing the reſt of the European Lan<g ref="char:EOLhyphen"/>guages, wherein without a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dw gance, and as many can teſtifie, I have more then a Smattering,
+<pb n="24" facs="tcp:152596:40"/>and here was lately an <hi>Italian</hi> (as I have ſince been told upon diſcourſe and ſome wonder of my readineſs in them) who was one of my Maſters; and who might have juſtified the truth of this and the reſt of my ſtory; his name was <hi>Giacomo Della Riva,</hi> well known to many Gentlemen in this Town.</p>
+            <p>In thoſe and the like Stu<g ref="char:EOLhyphen"/>dies, and other befitting Ex<g ref="char:EOLhyphen"/>erciſes of my ſex, I paſt away the age of nineteen years, when I thought it high time to put all this Speculation and Theory in<g ref="char:EOLhyphen"/>to practice, and being furniſh<g ref="char:EOLhyphen"/>ed with ſuch a fraught, and ſtore of all Forraign neceſſaries, to lanch into the World, and ſee what returnes I could make of this ſtock, but in the interim of ſuch meditations, an un<g ref="char:EOLhyphen"/>happy
+<pb facs="tcp:152596:40"/>
+               <pb facs="tcp:152596:41"/>
+               <pb n="25" facs="tcp:152596:41"/>accident, (at my being at the <hi>Spaw</hi> the laſt Summer, to drink thoſe medicinal waters) diſcovered me, and invited two ſtrange Gentlemen, which that place always is furniſhed with, to enquire further what I was: who having obtained my Country, and ſome inckling of my qua<g ref="char:EOLhyphen"/>lity, made claym to be my ſer<g ref="char:EOLhyphen"/>vants. I could not in that place, the Mart of good manners, and where there is no nicety of converſe, but all perſons uſe their frankeſt liberty of viſit and diſcourſe, refuſe their Addreſſes, but ſeeing both of them ſo im<g ref="char:EOLhyphen"/>portunate, and both ſo diſpa<g ref="char:EOLhyphen"/>rately and unſociably qualified for my choyce or approbation, I privately withdrew home, but could not ſo be rid of my odd payre of Gallants, who
+<pb n="26" facs="tcp:152596:42"/>quickly haunted me and my Houſe.</p>
+            <figure>
+               <head>German Princeſs</head>
+               <figDesc>depiction of Mary Carleton</figDesc>
+            </figure>
+            <p>The other was a young and pale Student in the Mathema<g ref="char:EOLhyphen"/>ticks, Chymiſtry, and Magick, like a fellow here that pretends to be Secretary to God and Na<g ref="char:EOLhyphen"/>ture, and had exhauſted a plentiful eſtate, and was like to be a ſecond Dr. <hi>Fauſtus,</hi> and like my Lord, threatned either a contract with me, or with the Devil: for having loſt his Pro<g ref="char:EOLhyphen"/>jection of the Philoſophers Stone, and decocted all his
+<pb n="28" facs="tcp:152596:44"/>money and eſtate, his magical Glaſs ſhewed him me, who ſhould by my fortune make him up again. In ſhort, the one ſaid he would ſtorm and force me, and the other would make me yeild or elſe he would ſet <hi>Archimedes</hi> his unexperimented Engine at work, to remove me with him into ſome unknown World, to which he added the efficacy of his Spels and Con<g ref="char:EOLhyphen"/>jurations.</p>
+            <p>I had by my Servants and ſome diſtant friends account of ſuch a deſign as carrying me away, and forcing my conſent by the Gouty Cavalier, who had ſome Caſtellanes and Governours in <hi>Alſatia</hi> his friends, and there was no leſs danger from my Magical Sweet-heart, but the open violence of the one, and
+<pb facs="tcp:152596:44"/>
+               <pb facs="tcp:152596:45"/>
+               <pb n="29" facs="tcp:152596:45"/>the ſecret mines of the other were in prudence to be preven<g ref="char:EOLhyphen"/>ted by my abſence, which I now concluded on by my ſelf.</p>
+            <p>I ſhall not be obliged to give you any further account of my parentage or condion, for by ſuch means my diſaſter here, may reach the ears of ſome Friends and Acquaintance, from whoſe knowledge my purpoſe is yet to eſtrange my ſelf, (and to gene<g ref="char:EOLhyphen"/>ral enquiries <hi>Collen</hi> is too ſpaci<g ref="char:EOLhyphen"/>ous and populous to afford any diſcovery) It will ſuffice, that I was liberally and honourably educated, and ſuch principles laid, that I wonder at the ſuper<g ref="char:EOLhyphen"/>ſtructure of my fortune. I knew not what belonged to vulgar and Plebeian cuſtomes or condi<g ref="char:EOLhyphen"/>tions, and they that idlely tax
+<pb n="30" facs="tcp:152596:46"/>my diſcourſes and behaviour with mimick pedantry, know not the generous emanations of a right born ſoul. And ſo, that which probably makes me ob<g ref="char:EOLhyphen"/>noxious to the cenſures of the multitude, as it hath to the ha<g ref="char:EOLhyphen"/>tred of my new Relations, is the low ſpiritedneſs, and pityful ignorance of ſuch Mechanick and baſe people.</p>
+            <p>I would not be thought to boaſt of any accompliſhments, which ſome perſons (who fa<g ref="char:EOLhyphen"/>vour my diſtreſt eſtate, and they are of honour alſo) do pleaſe to acknowledge in me, all the uſe I can make of them, ſhall ſerve onely for an Argu<g ref="char:EOLhyphen"/>ment againſt that vile and im<g ref="char:EOLhyphen"/>pertinent falſhood, that I am of a moſt ſordid and baſe ex<g ref="char:EOLhyphen"/>traction in this Kingdom, no
+<pb facs="tcp:152596:46"/>
+               <pb facs="tcp:152596:47"/>
+               <pb n="31" facs="tcp:152596:47"/>better then the Daughter of a Fidler at <hi>Canterbury.</hi>
+            </p>
+            <p>That Blaſphemous lye was firſt broached in an Anonymous Li<g ref="char:EOLhyphen"/>bel, Entituled the <hi>Lawyers Clark trappanned by the crafty Whore of</hi> Canterbury, but at whoſe inſtigation I could never tell, nor did I make enquiry, but at laſt ſpontaneouſly the Ro<g ref="char:EOLhyphen"/>guery diſcovered it ſelf at my being in cuſtody neer <hi>Newgate,</hi> where I underſtood the Devil and neceſſity with the Writer, and undertaker, were as inſtru<g ref="char:EOLhyphen"/>mental as the Devil and Co<g ref="char:EOLhyphen"/>vetouſneſs, in the Occaſioner of that report; but that fellow is of ſo leud and miſerable an in<g ref="char:EOLhyphen"/>famy, for ſuch defamatory Pamphlets, that his name will poyſon the eyes of the Reader, and feſter even my charity in
+<pb n="32" facs="tcp:152596:48"/>forgiving him, to proceed.</p>
+            <p>The time of my deliberated departure being come, and other intervening accidents ha<g ref="char:EOLhyphen"/>ving confirmed me to the pur<g ref="char:EOLhyphen"/>fuance of that journey, ſome pece-meal rumours whereof have been ſcattered up and down, not far diſtant from the truth, namely Conſtraint and awe of an unliked and unſu<g ref="char:EOLhyphen"/>table match, which the freedom of my ſoul moſt highly abhomi<g ref="char:EOLhyphen"/>nated and reſented) I privately by night withdrew from my Governeſs, and by the way of <hi>
+                  <g ref="char:V">Ʋ</g>trecht,</hi> where I ſtayed a while incognito, thence paſſed to <hi>Amſterdam,</hi> and ſo to <hi>Rotter<g ref="char:EOLhyphen"/>dam,</hi> I came to the <hi>Brill,</hi> and there took Shipping for <hi>England,</hi> the <hi>Elyzium</hi> of my wiſhes and expectations being
+<pb facs="tcp:152596:48"/>
+               <pb facs="tcp:152596:49"/>
+               <pb n="33" facs="tcp:152596:49"/>in hope to find it a Land of An<g ref="char:EOLhyphen"/>gels, but I perceive it now to be, as to me, a place of Tor<g ref="char:EOLhyphen"/>ments.</p>
+            <p>I am not ſingle, or the firſt wo<g ref="char:EOLhyphen"/>man, that hath put her ſelf upon ſuch hazards, or pilgrimages, the ſtories of all times abound with ſuch Examples, enough to make up a volume. I might as well have given luſtre to a Romance as any any any of thoſe ſuppoſed <hi>Heroina's:</hi> and ſince it is the method of thoſe peices, and the Art of that way of writing to perplex and intricate the commencement and progreſs of ſuch adven<g ref="char:EOLhyphen"/>tures, with unexpected and various difficulties and troubles, and at laſt bring them to the long deſired fruition of their dear bought content, I am
+<pb n="34" facs="tcp:152596:50"/>not altogether out of heart, but that Providence may have ſome tender and more courteous con<g ref="char:EOLhyphen"/>ſideration of me; for I proteſt I know not what crime, offence or demerit of mine hath ren<g ref="char:EOLhyphen"/>dred her ſo averſe and intracta<g ref="char:EOLhyphen"/>ble as ſhe hath proved to my de<g ref="char:EOLhyphen"/>ſigns.</p>
+            <p>Nor do the Modern and very late Times want Examples of the like adventures. I could mention a Princeſs, and great Perſonage out of the North, who not long ſince came into my Country, and hath paſſed two or three times between <hi>Italy and France,</hi> and keeps her deſign yet undiſcovered, and is the onely Lady Errant in the World. I could mention ano<g ref="char:EOLhyphen"/>ther of a far worſe conſequence in this Country, a She-General,
+<pb facs="tcp:152596:50"/>
+               <pb facs="tcp:152596:51"/>
+               <pb n="35" facs="tcp:152596:51"/>who followed the Camp to the other World in <hi>America,</hi> &amp;c. and was the occaſion of the loſs of the deſigne. Mine compared with thoſe are meer puny ſto<g ref="char:EOLhyphen"/>ries, and inconſiderable, I nei<g ref="char:EOLhyphen"/>ther concerned my travail in negotiatiog peace, or carrying war, but was meerly my own free <hi>Agent.</hi>
+            </p>
+            <p>Nor can I be blamed for this courſe, for beſides the neceſſity and enforcements of forſaking my Country, without running into a more unſupportable con<g ref="char:EOLhyphen"/>dition of Marriage then this I am now in, (for my patience and ſuffering, and Continence I have, I truſt in my own power, and ſhall endeavour to keep them undiſturbed and uncor<g ref="char:EOLhyphen"/>rupted, what ever temptations or occaſions, by reaſon of this
+<pb n="36" facs="tcp:152596:52"/>unjuſt ſeparation, now are, or ſhall be put upon me hereafter; but my life is not in my diſpoſal or preſervation, which I had certainly endangered at home, if I had been bedded to him whom my heart abhorred:) and beſides other reaſons, which I cannot in prudence yet render to the World, the very civility and purity of my deſign, with<g ref="char:EOLhyphen"/>out any luſtful or vicious appur<g ref="char:EOLhyphen"/>tenant, would fairly excuſe me.</p>
+            <p>What harme have I done in pretending to great Titles? Ambition and Affection of Greatneſs to good and juſt pur<g ref="char:EOLhyphen"/>poſes was always eſteemed and accounted laudable and praiſe-worthy, and the ſign and cha<g ref="char:EOLhyphen"/>racter of a vertuous mind, nor do I think it an unjuſt pur<g ref="char:EOLhyphen"/>poſe
+<pb facs="tcp:152596:52"/>
+               <pb facs="tcp:152596:53"/>
+               <pb n="37" facs="tcp:152596:53"/>in me to contrive my own advancement by ſuch illuſtrious pretences as they ſay I made uſe of, to grant the Queſtion, that I am not ſo honourably deſcended as I inſinuated to the Catch<g ref="char:EOLhyphen"/>dolt my Father in Law, (which yet by their favour they ſhall firſt better and more evidently diſprove then as yet they have done, before I relinquiſh my juſt claym to my Honour) I think I do rather deſerve commenda<g ref="char:EOLhyphen"/>tion then reproach; if the beſt <hi>things are to be imitated,</hi> I had a good precept and warrant for my aſſumption of ſuch a per<g ref="char:EOLhyphen"/>ſonage as they were willing to beleive me to be; If indeed by any misbecoming act unhand<g ref="char:EOLhyphen"/>ſome and unbefitting ſuch a perſon, I had prophaned that quality, and bewrayed and
+<pb n="46" facs="tcp:152596:54"/>diſcovered any inconſiſtent meanneſs therewith (as it was very difficult to perſonate great<g ref="char:EOLhyphen"/>neſs for ſo long a time with<g ref="char:EOLhyphen"/>out ſlips or miſtakes) I had deſerved to be ſeverely pu<g ref="char:EOLhyphen"/>niſhed and abhominated by all Geetlemen; whereas after all theſe loads of imputations which my enemies have heaped upon me, I do with my ac<g ref="char:EOLhyphen"/>knowledgements to them for it) enjoy, and am happy in many of their loves and good eſtimation.</p>
+            <p>And I will yet continue the ſame reſpects, and make the World to know that there is no poſſibility of ſuch perfections, without a more intent care and elegancy of learning, to which I have by great labour and indu<g ref="char:EOLhyphen"/>ſtry attained.</p>
+            <pb facs="tcp:152596:54"/>
+            <pb facs="tcp:152596:55"/>
+            <pb n="47" facs="tcp:152596:55"/>
+            <p> I need not therefore engage further in this preluminary part of my defence, onely as an irre<g ref="char:EOLhyphen"/>fragable confutation of the poorneſs of my birth, and in this Kingdom, I would have my Adverſaries know, as ſome of them do, though they don't well underſtand, that the ſeverall languages I have ready and at my command, as the <hi>Greek, La<g ref="char:EOLhyphen"/>tine, French, Italian, Spaniſh, Engliſh,</hi> and ſomething of the Oriental Tongues, all which I pronounce with a Dutch Dialect and Idiome, are not common and ordinary endowments of an Engliſh Spinſter, no not of the beſt rank of the City. And ſince I muſt praiſe my ſelf, in ſhort, I came not here to learn any thing for uſe or ornament
+<pb n="40" facs="tcp:152596:56"/>of a woman, but onely the ways to a better fortune.</p>
+            <p>I come now to the matter of fact, the firſt place I touched at was <hi>Graveſend,</hi> where I arrived towards the end of <hi>March,</hi> and without any ſtay took a Tide-boat came to <hi>London</hi> in company with a Parſon or Mi<g ref="char:EOLhyphen"/>niſter, who officiouſly, but I ſuppoſe out of deſign, gave me the trouble of his ſervice and attendance to the <hi>Exchange-Tavern</hi> right againſt the <hi>Stocke,</hi> betwixt the <hi>Poultry</hi> and <hi>Cornhil,</hi> the houſe of one Mr. <hi>King,</hi> not having any knowledge of the Maſter or his acquaintance, and free, God knows from any de<g ref="char:EOLhyphen"/>ſign, for I would have entred any other houſe if I had found the doors open, or could have raiſed the folks nearer to my
+<pb facs="tcp:152596:56"/>
+               <pb facs="tcp:152596:57"/>
+               <pb n="41" facs="tcp:152596:57"/>landing, for I was diſtempered with the nights paſſage; but it was ſo early in the morning, five a clock, that there was no body ſtirring elſewhere, onely here by miſhap <hi>Mr. King</hi> him<g ref="char:EOLhyphen"/>ſelf was up and ſtanding at the Bar, telling of braſs farthings, whom the Parſon deſired to fill a pint of wine, which he readily performed, and brought to a room behinde the Bar. while the wine was a drinking, (which was Rheniſh wine, the complement being put upon me by the Parſon as the fruit of my own happy Country) Sir <hi>John</hi> very rudely began to accoſt me, and to offer ſome incivilities to me, which I found no other way to avoid, then by pretending want of reſt to the Maſter of the houſe, and
+<pb n="43" facs="tcp:152596:58"/>acquainting him with my charge of Jewels, and that I was as I do juſtifie my ſelf to be a perſon of Quality. Hereupon a room was provided for me to repoſe my ſelf in, and the Clergyman took his leave with a trouble<g ref="char:EOLhyphen"/>ſome promiſe of waiting upon me another day to give me a viſit, which I was forced to ad<g ref="char:EOLhyphen"/>mit, &amp; to tell him, I would leave word where-ever I went; but he conſidering as I ſuppoſe of the unfeaſibleneſs of his deſires, and the publiqueneſs of the place, neglected his promiſe and trou<g ref="char:EOLhyphen"/>bled me no more.</p>
+            <p>He being gone, <hi>Mr. King</hi> began to queſtion me, what Country woman I was, and of what Religion, I frankly told him; and acquainted him with<g ref="char:EOLhyphen"/>all
+<pb facs="tcp:152596:58"/>
+               <pb facs="tcp:152596:59"/>
+               <pb n="42" facs="tcp:152596:59"/>what charge <hi>I</hi> had about me, which to ſecure from the danger of the Town, that was full of cozenage and villany, he adviſed me to ſtay with him till I could better provide for my ſelf.</p>
+            <p>
+               <hi>I</hi> reſted my ſelf here till eleven a clock at noon: when <hi>I</hi> aroſe, and was very civilly treated by <hi>Mr. King,</hi> who well knowing <hi>I</hi> was a ſtranger and well furniſhed with money, omitted no manner of reſpect to me, nor did <hi>I</hi> ſpend par<g ref="char:EOLhyphen"/>cimoniouſly, and at an ordina<g ref="char:EOLhyphen"/>ry rate, but anſwerable to the quality and account, at their fetching and itching queſtions, <hi>I</hi> gave of my ſelf.</p>
+            <pb n="44" facs="tcp:152596:60"/>
+            <p>This invited him earneſtly, with all ſubmiſs addreſs to re<g ref="char:EOLhyphen"/>queſt my ſtaying with them till I had diſpatched, and had pro<g ref="char:EOLhyphen"/>vided all things for my publique appearance, for the better fur<g ref="char:EOLhyphen"/>niſhing and equiping whereof, I acquainted Him I would ſend by Poſt to my Steward, for the return of ſome moneys to de<g ref="char:EOLhyphen"/>fray the expences thereof, which Letters he viewed, and con<g ref="char:EOLhyphen"/>ceived ſuch imaginations in his Head thereupon, that it never left working till it had wrought the effect of his finely begun, and hopefully continued Enter<g ref="char:EOLhyphen"/>priſe.</p>
+            <p>Theſe Letters he himſelf de<g ref="char:EOLhyphen"/>livered at my deſire, to have them carefully put into the Male, to the Poſt-Houſe; and thereafter obſerved me with
+<pb facs="tcp:152596:60"/>
+               <pb facs="tcp:152596:61"/>
+               <pb n="45" facs="tcp:152596:61"/>moſt manifeſt reſpects. In the <hi>Interim</hi> of the return of theſe moneys, I was ſlightly, and as it were by the by, upon diſ<g ref="char:EOLhyphen"/>courſe of my Country (wherein they took occaſion to be libe<g ref="char:EOLhyphen"/>rally copious) engaged into ſome diſcovery of my ſelf, my eſtate and quality, and the nature of both, the cauſes of my coming hither, &amp;c. but I did it ſo uncon<g ref="char:EOLhyphen"/>cernedly, and negligently, as a matter of no moment or di<g ref="char:EOLhyphen"/>ſturbance to me, though I had hinted at the diſcontent of my match, that this did aſſure them that all was real, and therefore it was time to ſecure my eſtate to them by a ſpeedy and ſe<g ref="char:EOLhyphen"/>cret marriage.</p>
+            <p>Let the World now judge, whither being prompted by ſuch plain and publique ſignes of a
+<pb n="38" facs="tcp:152596:62"/>deſign upon me, to counterplot them, I have done any more then what the Rule, and a re<g ref="char:EOLhyphen"/>ceived principle of Juſtice di<g ref="char:EOLhyphen"/>rects: <hi>to deceive the deceiver, is no deceit.</hi>
+            </p>
+            <p>I knew not nevertheleſs, which way their Artifices tended, till Maſter <hi>King,</hi> brought into my acquaintance old Mr. <hi>Carleton</hi> his Father in Law, and ſoon after Mr. <hi>John Carleton</hi> his Son: it ſeems it had been conſulted, to have preferred <hi>George</hi> the Elder Brother: He troubled with a ſimple modeſty, and a mind no way competent to ſo much greatneſs, was laid aſide, and the younger fluſht and en<g ref="char:EOLhyphen"/>couraged to ſet upon me. By this time they had obtained my Name from me, <hi>viz. Maria de Wolway,</hi> which paſſage alſo
+<pb facs="tcp:152596:62"/>
+               <pb facs="tcp:152596:63"/>
+               <pb n="39" facs="tcp:152596:63"/>hath ſuffered by another lender Impoſture, and alluſory ſound of <hi>De Vulva:</hi> in the language of which I am better verſed, then to pick out no civiller and ele<g ref="char:EOLhyphen"/>ganter impreſs.</p>
+            <p>To the Addreſſes of Mr. <hi>John Carleton,</hi> I carried my ſelf with ſo much indifference, not ſuper<g ref="char:EOLhyphen"/>ciliouſly refuſing his viſits, or readily admitting his ſuit, not disheartening him with a ſevere retiredneſs, or challenges of his imparity, nor encouraging him with afreedom or openneſs of Heart, or arrogance of my own condition, that he and his friends were upon the ſpur to conſum<g ref="char:EOLhyphen"/>mate the match, which yet I de<g ref="char:EOLhyphen"/>layed and diſſembled with con<g ref="char:EOLhyphen"/>venient pretences, but herein I will be more particular in the enſuing Pages.</p>
+            <pb n="48" facs="tcp:152596:64"/>
+            <p>In the mean while, to prevent all notice of me, and the di<g ref="char:EOLhyphen"/>ſturbance of their proceedings, that might be occaſioned there<g ref="char:EOLhyphen"/>by, they kept me cloſe in the nature of a Priſoner, which though I perceived, yet I made no ſemblance thereof at all, but colluded with them in their own arts, and pretended ſome averſ<g ref="char:EOLhyphen"/>neſs to all company, but onely my enamourate, Mr. <hi>Carleton:</hi> nor was any body elſe ſuffered to come near me, or to ſpeak with me; Inſomuch, as I have bin informed, that they promiſed 209 <hi>l.</hi> to one <hi>Sackvil,</hi> whom for his advice, they had too for<g ref="char:EOLhyphen"/>wardly, as they thought impar<g ref="char:EOLhyphen"/>ted the buſineſs, the ſum of 200<hi>l.</hi> to be filent, leſt that it ſhould be heard at Court, and ſo the Eſtate and Honour which they
+<pb facs="tcp:152596:64"/>
+               <pb facs="tcp:152596:65"/>
+               <pb n="49" facs="tcp:152596:65"/>had already ſwallowed, would be loſt from their Son, and ſeized by ſome Courtier, who ſhould next come to hear of this great Lady.</p>
+            <p>After many viſits paſſed be<g ref="char:EOLhyphen"/>twixt Mr. <hi>Carleton</hi> and my ſelf, Old Mr. <hi>Carleton</hi> and Mr. <hi>King</hi> came to me, and very earneſtly preſſed the diſpatch of the Mar<g ref="char:EOLhyphen"/>riage, and that I would be plea<g ref="char:EOLhyphen"/>ſed to give my Aſſent, ſetting forth with all the qualities and great ſufficiencies of that Noble perſon, as they pleaſed to ſtile him. I knew what made them ſo urgent, for they had now ſeen the anſwers I had received by the Poſt, by which I was certi<g ref="char:EOLhyphen"/>fied of the receipt of mine, and that accordingly ſome thou<g ref="char:EOLhyphen"/>ſands of Crowns ſhould be re<g ref="char:EOLhyphen"/>mitted inſtantly to <hi>London,</hi> and
+<pb n="50" facs="tcp:152596:66"/>Coach and Horſes ſent by the next Shipping, with other things I had ſent for, and to reinforce this their <hi>commendamus</hi> the more effectually, they acquainted me, that if I did not preſently grant the ſuit, and their requeſt, Mr. <hi>Carleton</hi> was ſo far in love with me, that he would make away with himſelf, or preſently travail beyond Sea, and ſee <hi>Eng<g ref="char:EOLhyphen"/>land</hi> no more.</p>
+            <p>I cannot deny, but that I could hardly forbear ſmiling, to ſee how ſerious theſe <hi>Elders</hi> and <hi>Brokers</hi> were in this <hi>Love-killing</hi> ſtory, but keeping to my buſi<g ref="char:EOLhyphen"/>neſs, after ſome demurs and demands, I ſeemed not to con<g ref="char:EOLhyphen"/>ſent, and then they began paſ<g ref="char:EOLhyphen"/>ſionately, urging me with other ſtories, ſome of which long re<g ref="char:EOLhyphen"/>petition I will now inſert:</p>
+            <pb facs="tcp:152596:66"/>
+            <pb facs="tcp:152596:67"/>
+            <pb n="51" facs="tcp:152596:67"/>
+            <p> 
+               <hi>Wedneſday</hi> the firſt of <hi>April,</hi> Mrs. <hi>King</hi> made a great Feaſt, where were divers perſons of quality, as ſhe ſaid, amongſt the reſt, her Brother Mr. <hi>John Carle<g ref="char:EOLhyphen"/>ton.</hi> At which entertainment Mrs. <hi>King</hi> did adviſe me to call her Cozen, the which I did. <hi>Thurſday</hi> the ſecond of <hi>April,</hi> Mr. <hi>John Carleton</hi> came in his Coach, with two Footmen at<g ref="char:EOLhyphen"/>tending on him, calling him my <hi>Lord,</hi> and Mrs. <hi>King</hi> did alſo call him my <hi>Lord.</hi> With that I ask<g ref="char:EOLhyphen"/>ed Mrs. <hi>King,</hi> if it was not the ſame perſon that dined with us yeſterday; ſhe ſaid, True, it was ſo, but he was in a Diſguiſe then, and withal, that in a hu<g ref="char:EOLhyphen"/>mour he would often do ſo: <hi>But,</hi> ſaith ſhe, <hi>I do aſſure you he is a Lord.</hi> Upon that I replied, <hi>Then his father muſt be an Earl, if
+<pb n="52" facs="tcp:152596:68"/>living.</hi> She affirmed, that he was a perſon of great honour. The ſame time my Lord preſented me with a rich box of Sweet<g ref="char:EOLhyphen"/>meats: I could do no leſs then thankfully accept thereof.</p>
+            <p>My Lord came every day to <hi>Mr. Kings,</hi> and by his importu<g ref="char:EOLhyphen"/>nity would carry me abroad in a Coach to <hi>Holloway</hi> and <hi>Iſling<g ref="char:EOLhyphen"/>ton. Mrs. King</hi> would often ask me, what my Lord did ſay to me; I told her, <hi>nothing that I obſerved, but his Lordſhip aboun<g ref="char:EOLhyphen"/>ded in civility, mixt with com<g ref="char:EOLhyphen"/>plements. How;</hi> ſaid ſhe, <hi>Ma<g ref="char:EOLhyphen"/>dam, He loves you. Loves me, for what Miſtris King?</hi> I replied. She ſaid, <hi>For your great parts and Endowments.</hi> I asked her, <hi>How my Lord could tell that I had ei<g ref="char:EOLhyphen"/>ther.</hi> She ſaid, <hi>My Lord muſt have very good eyes if he could ſee
+<pb facs="tcp:152596:68"/>
+                  <pb facs="tcp:152596:69"/>
+                  <pb n="53" facs="tcp:152596:69"/>within me, or elſe I muſt be very tranſparent.</hi>
+            </p>
+            <p>After which, I did order the matter ſo, that his acceſs to me was not ſo eaſie: Miſtris <hi>King</hi> importuneth me to admit my Lord to viſit me; I told her plainly, <hi>That I did not underſtand his Lordſhips meaning.</hi> He pro<g ref="char:EOLhyphen"/>vided me a great Banquet, at which his Lordſhips mother was very fine dreſt, who queſtioned what I was. I told my Lord, <hi>That I had received civilities from him, and he had the like from me, and that I had no ne<g ref="char:EOLhyphen"/>ceſſity to give any account to any perſon what I was, for any thing that I intended; and that if any deſign or affair of his required any ſuch thing out of convenience, or otherwiſe he might forbear it.</hi> His Lordſhip excuſed his mo<g ref="char:EOLhyphen"/>thers
+<pb n="54" facs="tcp:152596:70"/>inquiſition, by ſaying, <hi>She was his Mother, and that Parents did think themſelves con<g ref="char:EOLhyphen"/>cerned, in looking after the good of their Children. But</hi> (ſaid he) <hi>Madam, Wave all this, how<g ref="char:EOLhyphen"/>ever I will marry you to mor<g ref="char:EOLhyphen"/>row. What</hi> (ſaid I) <hi>my Lord, without my conſent:</hi> my Lord, <hi>I deſire your Lordſhip not to come near me any more, I will not lye under ſuch queſtioning and ſcru<g ref="char:EOLhyphen"/>tiny: Your Lordſhip will be ſafe in following my advice, in not coming at me any more.</hi> Upon this his Lordſhip wept bitterly: I with-drew my ſelf from his preſence: He writ a Letter of high Complements to me (the which Letter was loſt in that vi<g ref="char:EOLhyphen"/>olent ſurprize of me and my things, by the force of <hi>Mr. George Carleton,</hi> my Husbands
+<pb facs="tcp:152596:70"/>
+               <pb facs="tcp:152596:71"/>
+               <pb n="55" facs="tcp:152596:71"/>Father.) At the ſame time I had a Gown making upon my own account, by <hi>Mrs. Kings</hi> Taylor in the <hi>Strand,</hi> I took a Coach and went thither; all this while the young Lord not knowing where I was, remained impa<g ref="char:EOLhyphen"/>tient until my return, where I found him ſtanding at the Bar (in a very penſive and melancho<g ref="char:EOLhyphen"/>ly manner, as if he had been ar<g ref="char:EOLhyphen"/>raigned for not paying his reck<g ref="char:EOLhyphen"/>oning) at the <hi>Exchange-Tavern,</hi> and ſuddenly claſpt about my middle, and violently carryed me to my Chamber. I asked his meaning: He anſwered, <hi>That I had forbid him my preſence; that it had almoſt made him mad; that he deſired nothing more of me, then but to let him look upon me.</hi> Upon that he did, with a very ſtrange geſture, fix his eyes
+<pb n="56" facs="tcp:152596:72"/>upon me: In compaſſion to him, I askt him what his Lordſhip meant, and intended; he re<g ref="char:EOLhyphen"/>plied in a kind of diſcompoſed manner, <hi>I would have you to be my Wife.</hi> I anſwered him, <hi>My Lord, I rather think you have courted me for a Miſtreſs, then for a Wife: I aſſure you, that I will never be a Miſtris to the greateſt of Princes, I will rather chuſe to be a Wife to the meaneſt of men.</hi>
+            </p>
+            <p>Upon which, he uttered divers aſſeverations in confirmation of the realty of his intentions, and earneſt deſire of the Honour in making me his Wife, without any reſpect to what I had.</p>
+            <p>After my Lord had inſinuated his affections ſo far, that I be<g ref="char:EOLhyphen"/>gan to underſtand him, and did mix and ſcatter ſome ſuch like
+<pb facs="tcp:152596:72"/>
+               <pb facs="tcp:152596:73"/>
+               <pb n="57" facs="tcp:152596:73"/>acceptable words, which put him into ſome confidence of obtaining me; he began like o<g ref="char:EOLhyphen"/>ther Lovers to ſet forth the am<g ref="char:EOLhyphen"/>plitude of his Fortunes, and thoſe brave things he would do if I would finiſh his ſuit; among many other fineneſſes and Gran<g ref="char:EOLhyphen"/>dures he would beſtow on me, I well remember, he told me that he had given order for a great Glaſs Coach of the new faſhion to be preſently made, againſt our wedding was over, where eleven or twelve might conveniently ſit, and that he would ſute it with a ſet of Lac<g ref="char:EOLhyphen"/>quies and Pages, the neateſt and handſomeſt of the Town for their Liveries and perſons. That I might ſee I had married a per<g ref="char:EOLhyphen"/>ſon that not onely dearly loved me, but would alſo highly ho<g ref="char:EOLhyphen"/>nour
+<pb n="58" facs="tcp:152596:74"/>me, with the moſt ſplen<g ref="char:EOLhyphen"/>did accomodations that <hi>England</hi> yeilded.</p>
+            <p>At the very ſame time, he had changed as he told me (and part of it I ſaw) two hundred pound of ſilver, into two hundred peices of Gold, for the better portableneſs thereof, that his Princeſs might ſee nothing of meanneſs belonging to him, and that as ſoon as the Coach was made and all things fitted to it, he would preſently go to Court, and carry me with him, and in<g ref="char:EOLhyphen"/>troduce me to the King and Queen: his further intention being, which as yet he concea<g ref="char:EOLhyphen"/>led to me, to get a <hi>Knight-hood,</hi> and have ſomething of honour to oppoſe the envy of men, that ſo great an Eſtate was confer<g ref="char:EOLhyphen"/>red on a private perſon.</p>
+            <pb facs="tcp:152596:74"/>
+            <pb facs="tcp:152596:75"/>
+            <pb n="59" facs="tcp:152596:75"/>
+            <p> And now my Lord ſpoke nothing but Rodomantadoes of the greatneſs of his Family, of the delights and ſtatelineſs of his Lands and houſes, the game of his Parks, the largeneſs of his ſtables, and convenience of Fiſh and Foul, for furniſhing his liberal and open Houſe<g ref="char:EOLhyphen"/>keeping, that I ſhould ſee <hi>Eng<g ref="char:EOLhyphen"/>land afforded more pleaſure then any place in the World,</hi> but they were (without the Hoſt) reckoned and charged before<g ref="char:EOLhyphen"/>hand to my account, and to be purchaſed with my eſtate, which was his, by a figure of anticipation, when we two ſhould be all one, and therefore he lyed not, but onely equivo<g ref="char:EOLhyphen"/>cated a little.</p>
+            <pb n="60" facs="tcp:152596:76"/>
+            <p>But he did not in the leaſt mention any ſuch thing to me, nor made any offer of enquiry what I was, no not the leaſt ſemblance or ſhadow of it; he ſeemed to take no notice of my fortunes, it was my perſon he onely courted, which having ſo happily and accidentally ſeen, he could not live, if I cheriſht not his affections. Nor did I think it then convenient or civil to queſtion the credit of his words, and the report given me of him. His demeanour I confeſs was light, but I imputed that to his youth, and the va<g ref="char:EOLhyphen"/>nity of a Gallant, as ne<g ref="char:EOLhyphen"/>ceſſary a quality, and as much admired as wit in a Woman.</p>
+            <pb facs="tcp:152596:76"/>
+            <pb facs="tcp:152596:77"/>
+            <pb n="61" facs="tcp:152596:77"/>
+            <p> The laſt day of my virgin ſtate, <hi>Eaſter</hi> Eve, the Taylor brought me my Gown to my Lodging, I being dreſt and adorned with my Jewels, he again renewed his ſuit to me; with all impor<g ref="char:EOLhyphen"/>tunity imaginable: His courte<g ref="char:EOLhyphen"/>ous Mother was alſo now moſt forward, preſſing me to con<g ref="char:EOLhyphen"/>ſent, by telling me, that <hi>ſhe ſhould loſe her Son, and his wits,</hi> he being already impatient with denyals and delays, adding withal, that he was a perſon hopeful, and might deſerve my condiſcention: I withſtood all their ſollicitation, although they continued it until twelve of the Clock that night: The young Lord at his taking his leave of me, told me he would attend me betimes the next morning, and carry me to St. <hi>Pauls</hi>
+               <pb n="62" facs="tcp:152596:78"/>Church, to hear the Organs, ſaying, that there would be very excellent Anthems perfor<g ref="char:EOLhyphen"/>med by rare voices, the morrow being Sunday, the 19. of <hi>April</hi> laſt: in the morning betimes, the young Lord cometh to my Chamber-door, deſiring admit<g ref="char:EOLhyphen"/>tance, which I refuſed, in regard I was not ready; yet ſo ſoon as my head was dreſſed, I let him have acceſs: he haſtned me, and told me his Coach was ready at the door, in which he carried me to his Mothers in the <hi>Grey-fryers, London,</hi> where I was aſſaulted by the young Lords tears, and o<g ref="char:EOLhyphen"/>thers to give my conſent to mar<g ref="char:EOLhyphen"/>ry him, telling me that they had a Parſon and a Licenſe ready, which was a meer falſ<g ref="char:EOLhyphen"/>hood, and temporary falacy to ſecure the match.</p>
+            <pb facs="tcp:152596:78"/>
+            <pb facs="tcp:152596:79"/>
+            <pb n="63" facs="tcp:152596:79"/>
+            <p> So on <hi>Eaſter</hi> morning, with three Coaches, in which with the Bride and Bridegroom were all the kindred that were privy to the buſineſs, and pretended a Licence, they carried me to <hi>Clothfair</hi> by <hi>Smithfield,</hi> and in the Church of Great St. <hi>Bartho<g ref="char:EOLhyphen"/>lomews,</hi> Married me by one Mr. <hi>Smith,</hi> who was well paid for his paynes: and now they thought themſelves poſſeſſed of their hopes, but becauſe they would prevent the noiſe and fame, of their good fortune from publique diſcourſe, that no ſiniſter accident might inter<g ref="char:EOLhyphen"/>vene, before Mr. <hi>Carleton</hi> had bedded me, offence being likely to be taken at Court, (as they whiſpered to themſelves) that a Private Subject had Married a Forraign Princeſs, they had
+<pb n="64" facs="tcp:152596:80"/>before determined to go to <hi>Bar<g ref="char:EOLhyphen"/>net,</hi> and thither immediately after the celebration of the Marriage we were Driven in the Coaches, where we had a handſome treatment, and there we ſtaid Sunday and Munday, both which nights Mr. <hi>Carleton</hi> lay with me, and on Tueſday morning we were Married again, a Licenſe being then ob<g ref="char:EOLhyphen"/>tained to make the match more faſt and ſure, at their inſtance with me to conſent to it.</p>
+            <p>This being done, and their fears over, they reſolved to put me in a garb befitting the Eſtate and dignity they fancied I had; and they were ſo far poſſeſſed with a beleif of it, that they gave out, I was worth no leſs then 80000 <hi>li. per annum,</hi> and my Husband, as I muſt now ſtile
+<pb facs="tcp:152596:80"/>
+               <pb facs="tcp:152596:81"/>
+               <pb n="65" facs="tcp:152596:81"/>him, publiſhed ſo much in a Cof<g ref="char:EOLhyphen"/>fee-houſe; adding withal, to the extolling of his good hap, that there was a further Eſtate but that it was my modeſty or deſign to conceal it: And that he could not attribute his great fortune to any thing but the Fates, for he had not any thing to ballance with the leaſt of my Eſtate and Merits: So do con<g ref="char:EOLhyphen"/>ceited heighths of ſudden pro<g ref="char:EOLhyphen"/>ſperity and greatneſs dazzle the eyes and judgement of the moſt, nor could this young man be much blamed for his vainglori<g ref="char:EOLhyphen"/>ous miſtake.</p>
+            <p>My Cloaths being made at the charge of my Father in Law, and other fineries of the mode &amp; faſhion ſent me by ſome of his Kindred and friends (who pri<g ref="char:EOLhyphen"/>ded themſelves in this happy af<g ref="char:EOLhyphen"/>finity,
+<pb n="66" facs="tcp:152596:82"/>and who had an eye up<g ref="char:EOLhyphen"/>on ſome advantages alſo, and therefore gave me this early bribe, as teſtimonies of their ear<g ref="char:EOLhyphen"/>ly reſpect, &amp; as for Jewels I had of mine own of all ſorts, for Neck<g ref="char:EOLhyphen"/>laces, Pendants and Bracelets, of admirable ſplendor and brightneſs. I was in a Prince<g ref="char:EOLhyphen"/>like attire, and a ſplendid equi<g ref="char:EOLhyphen"/>page and retinue, accoutred for publique view among all the great Ladies of the Court and the Town on <hi>May</hi> day enſuing. At which time in my Lady <hi>Blud<g ref="char:EOLhyphen"/>worths</hi> Coach, which the ſame friends procured for my greater accommodation, and accompa<g ref="char:EOLhyphen"/>nied with the ſame Lady with Footmen and Pages, I rode to Hide-Park, in open view of that celebrious Cavalcade and Aſſembly, much gazed upon by
+<pb facs="tcp:152596:82"/>
+               <pb facs="tcp:152596:83"/>
+               <pb n="67" facs="tcp:152596:83"/>them all, the eximiouſneſs of my fortune drawing their eyes upon me; particularly that no<g ref="char:EOLhyphen"/>ble Lady gave me precedence, and the right hand, and a neat Treatment after our divertiſe<g ref="char:EOLhyphen"/>ment of turning up and down the park.</p>
+            <p>I was altogether ignorant of what eſtate my Huſband was, and therefore made no nicety to take thoſe places his friends gave me, and if I be taxed for incivility herein, it was his fault that he inſtructed me no better in my quality, for I conceited ſtill that he was ſome landed, honorable and wealthy man.</p>
+            <p>Things yet went fairly on, the ſame obſervances and di<g ref="char:EOLhyphen"/>ſtances continued, and lodgings befitting a perſon of Quality taken for me in <hi>Durham Yard,</hi>
+               <pb n="68" facs="tcp:152596:84"/>at one mr. <hi>Greens,</hi> where my huſband and I enjoyed one ano<g ref="char:EOLhyphen"/>ther with mutual complacency, till the return of the moneys out of <hi>Germany</hi> failing the day and their rich hopes, old Mr. <hi>Carleton</hi> began to ſuſpect he was deceived in his expectation, and that all was not gold that gli<g ref="char:EOLhyphen"/>ſtered: but to remove ſuch a prejudice from himſelf, as if he were the Authour of thoſe ſcandals that were now prepa<g ref="char:EOLhyphen"/>red againſt my innocence, a Letter is produced, and ſent from ſome then unknown hand, which reflected much upon my Honour and Reputation; and thereupon on the fifth or ſixth of <hi>May</hi> enſuing, <hi>I</hi> was by a Warrant dragged forth of my new Lodgings, with all the diſ<g ref="char:EOLhyphen"/>grace and contumely that could
+<pb facs="tcp:152596:84"/>
+               <pb facs="tcp:152596:85"/>
+               <pb n="69" facs="tcp:152596:85"/>be caſt upon the vileſt offender in the World, at the inſtigation of old Mr. <hi>Carleton,</hi> who was the Proſecutor, and by him and his Agents deveſted and ſtript of all my cloaths, and plundred of all my jewels, and my money, my very bodyes, and a payr of ſilk Stockings, being alſo pulled from me, and in a ſtrange array carried before a Juſtice.</p>
+            <p>But becauſe this ſtory hath not yet been fully diſcovered, I will more manifeſtly here de<g ref="char:EOLhyphen"/>clare it; That Letter aboveſaid, came from one Mr. <hi>John Clay,</hi> the younger Son of Mr. <hi>Clay</hi> a Drugſter at the Bear and Mor<g ref="char:EOLhyphen"/>tar in <hi>Lumber-ſtreet,</hi> a Servant and Admirer of Mrs. <hi>King</hi> my fine Siſter in Law, (who becauſe her Husband hath a weak head,
+<pb n="70" facs="tcp:152596:86"/>(though he ſat like a Parliament man once in <hi>Richard Cromwels</hi> time for three days, as ſince I have been informed) muſt have an aſſiſtant to carry on the buſi<g ref="char:EOLhyphen"/>neſs. The contents of this Let<g ref="char:EOLhyphen"/>ter were neer to this purpoſe,</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>I <hi>Am unknown to you, but hear<g ref="char:EOLhyphen"/>ing that your Son Mr.</hi> John Carleton <hi>hath married a Woman of a pretended great Fortune, and high birth, I thought fit to give you timely notice of what I know, and have heard concern<g ref="char:EOLhyphen"/>ing her, that ſhe is an abſolute Cheat, hath Married ſeveral men in our County of</hi> Kent, <hi>and then run away from them, with what they had; If it be the ſame
+<pb facs="tcp:152596:86"/>
+                        <pb facs="tcp:152596:87"/>
+                        <pb n="71" facs="tcp:152596:87"/>woman I mean, ſhe ſpeaks ſeve<g ref="char:EOLhyphen"/>ral languages fluently, and hath very high Breaſts,</hi> &amp;c.</p>
+               </body>
+            </floatingText>
+            <p>I was at the Exchange Ta<g ref="char:EOLhyphen"/>vern, as it was deſigned, when this Letter was brought, and thereupon their countenances were ſet to a moſt melancholly look, and pale hue, which ſhewed a mixture of fear and anger: preſently I was brought before the inquiſition of the Fa<g ref="char:EOLhyphen"/>mily, and examined concer<g ref="char:EOLhyphen"/>ning the ſaid Letter, which I conſtantly, innocently, and diſdainfully denyed, ſo that they ſeemed ſomething ſatisfied to the contrary, and ſo my Huſ<g ref="char:EOLhyphen"/>band and I went home in a Coach, but that very ſame night, all the gang, with one Mrs. <hi>Clark</hi> a Neighbour to <hi>King,</hi>
+               <pb n="72" facs="tcp:152596:88"/>came to my lodging where after moſt vile language, as Cheating Whore, and the like, they pul<g ref="char:EOLhyphen"/>led me up and down, and kept me ſtript upon a bed, not ſuf<g ref="char:EOLhyphen"/>fering my Husband to come neer me, though I cryed out for him to take my part, and do like a man to ſave me from that violence, who at a diſtance excuſed it, by putting all this barbarity upon his Father; In fine they left me not a rag, rin<g ref="char:EOLhyphen"/>cing every wet cloath out of the water, and carrying them away, The whole, was a moſt unwo<g ref="char:EOLhyphen"/>manly and rude Action at the beſt of it, if I had been ſuch as they pretended me to be, and not to be parralleld, but by a ſtory I have lately heard of the ſix woman ſhavers in <hi>Drury-Lane.</hi>
+            </p>
+            <pb facs="tcp:152596:88"/>
+            <pb facs="tcp:152596:89"/>
+            <pb n="73" facs="tcp:152596:89"/>
+            <p> See the fickleneſs and vanity of humane things, to day <hi>em<g ref="char:EOLhyphen"/>belliſhed,</hi> and adorned with all the female Arts of bravery and gallantry, and courted and attended on by the beſt rank of my ſex, who are jealous obſer<g ref="char:EOLhyphen"/>vers what honour and reſpect they give among themſelves, to a very punctilio; and now diſ<g ref="char:EOLhyphen"/>robed and disfigured in miſhapen Garments, and almoſt left naked, and haled and pulled by Beadles, and ſuch like rude and boy<g ref="char:EOLhyphen"/>ſterous fellows, before a Tri<g ref="char:EOLhyphen"/>bunal, like a leud Criminal.</p>
+            <p>The Juſtices Name was Mr. <hi>Godfrey,</hi> by whoſe Mittimus, upon an accuſation managed by Old Mr. <hi>Carleton,</hi> that I had mar<g ref="char:EOLhyphen"/>ried two Husbands, both of them in being, I was commit<g ref="char:EOLhyphen"/>ted to the <hi>Gate-houſe.</hi> Being
+<pb n="74" facs="tcp:152596:90"/>interrogated by the Juſtice, whi<g ref="char:EOLhyphen"/>ther or no I had not two Hus<g ref="char:EOLhyphen"/>bands as was alledged, I Anſwe<g ref="char:EOLhyphen"/>red, if I had, He was one of them, which I beleive incenſed Him ſomething the more againſt me, but I did not know the Authority and dignity of his place, ſo much am I a ſtranger to this Kingdom.</p>
+            <p>There were other things and crimes of a high nature object<g ref="char:EOLhyphen"/>ed againſt me beſides, That I cheated a Vintner of ſixty pounds, and was for that com<g ref="char:EOLhyphen"/>mitted to Newgate, but that lye quickly vaniſhed, for it was made appear, That I was ne<g ref="char:EOLhyphen"/>ver a Priſoner there, nor was my name ever recorded in their books; And that I pickt a Ken<g ref="char:EOLhyphen"/>tiſh Lords pocket, and cheated a French Merchant of Rings,
+<pb facs="tcp:152596:90"/>
+               <pb facs="tcp:152596:91"/>
+               <pb n="75" facs="tcp:152596:91"/>Jewels and other Commodities, That I made an eſcape, when ſold and ſhipt for the <hi>Barbadoes,</hi> but theſe were urged onely as ſurmiſes; and old <hi>Carleton</hi> bound over to proſecute onely for Bi<g ref="char:EOLhyphen"/>gamy, for my having two huſ<g ref="char:EOLhyphen"/>bands.</p>
+            <p>Thus the world may ſee how induſtrious miſcheif is to ruine a poor helpleſs and deſtitute Woman, who had neither mo<g ref="char:EOLhyphen"/>ney, friends nor acquaintance left me; yet I cannot deny that my Huſband lovingly came to me at the Gatehouſe the ſame day I was committed, and did very paſſionately complain of his Fathers uſage of me, meerly upon the diſappointment, as he ſaid, of their expectations, and that he could be contented to love me as well as ever, to live
+<pb n="76" facs="tcp:152596:92"/>with me and own me as a wife, and uſed ſeveral other expreſſi<g ref="char:EOLhyphen"/>ons of tenderneſs to me.</p>
+            <p>Nor have I leſs affection and kind ſentiments for him, whom I own and will own till death diſſolve the union, and did ac<g ref="char:EOLhyphen"/>quaint him with ſo much there, and proteſted my innocence to him, nor do I doubt could he have prevailed with his Father, but that theſe things had never happened. If now after my vindication he prove faithleſs and renege me, his fault will be doubly greater, in that he neither aſſiſted my innocence when endangered, nor cheriſh<g ref="char:EOLhyphen"/>ed it when vindicated by the Law.</p>
+            <p>In this priſon of the Gate<g ref="char:EOLhyphen"/>houſe I continued ſix weeks, in a far better condition then I
+<pb facs="tcp:152596:92"/>
+               <pb facs="tcp:152596:93"/>
+               <pb n="77" facs="tcp:152596:93"/>promiſed my ſelf, but the great<g ref="char:EOLhyphen"/>er civilities I ow to the Keep<g ref="char:EOLhyphen"/>er: as I am infinitely beholding to ſeveral perſons of quality, who came at firſt I ſuppoſe out of curioſity to ſee me, and did thereafter nobly compaſſionate my calamitous, and injurious re<g ref="char:EOLhyphen"/>ſtraint.</p>
+            <p>All that troubled me was an abuſive pamphlet which went under my Husbands name, wherein, moſt pitifully he plea<g ref="char:EOLhyphen"/>ded his frailty and mifortune, and intituled it to no leſſer pre<g ref="char:EOLhyphen"/>cedent then <hi>Adam,</hi> which I ſup<g ref="char:EOLhyphen"/>poſe was had out of the new <hi>Ballad,</hi> of <hi>your Humble Servant,</hi> a hint whereof, pleaſe the Reader to take in this Abridgement.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Reader,</salute>
+                  </opener>
+                  <p>
+                     <hi>I ſhall not give my ſelf
+<pb n="78" facs="tcp:152596:94"/>the trouble, to recollect and de<g ref="char:EOLhyphen"/>clare the ſeveral motives and in<g ref="char:EOLhyphen"/>ducements that deceitful, but wiſe enough, Woman uſed to deceive me with, &amp;c. Her Wit did more and more ingage and charm me: Her Qualities deprived me of my own; Her Courteous Behaviour, her Maje<g ref="char:EOLhyphen"/>ſtick Humility to all perſons, her Emphatical ſpeeches, her kind and loving expreſſions; and amongſt other things, her high deteſtation of all manner of Vice, as Lying, &amp;c. Her great Pretence to zeal in her Religion; her modeſt Confi<g ref="char:EOLhyphen"/>dence and Grace in all Companies, Fearing the knowledge of none; her demeanour was ſuch, that ſhe left no room for Suſpition, not onely in my opinion, but alſo in others both Grave and Wiſe.</hi> And all this is real and not feigned,
+<pb facs="tcp:152596:94"/>
+                     <pb facs="tcp:152596:95"/>
+                     <pb n="79" facs="tcp:152596:95"/>and more convincingly and ap<g ref="char:EOLhyphen"/>parently true, by this foil of his own ſetting, As for his un<g ref="char:EOLhyphen"/>dertaking to tell the Story of the management of the buſineſs betwixt us; he is ſo far from doing me juſtice herein, that he wrongeth me and his own ſoul by lying.</p>
+               </body>
+            </floatingText>
+            <p>For Confutation of which, I refer the Reader to the enſuing Tryal; Onely there is one paſ<g ref="char:EOLhyphen"/>ſage that I am unwilling to let ſlip, that is, he ſaith there, that my Father was in Town up<g ref="char:EOLhyphen"/>on my Commitment, and did acknowledge me to be his Daughter, and that I had played many ſuch tricks. It's ſtrange this Father of mine could not be produced at the Tryal, if that had been true.</p>
+            <p>And yet a little before this,
+<pb n="80" facs="tcp:152596:96"/>upon his viſiting me in the <hi>Gate<g ref="char:EOLhyphen"/>houſe,</hi> where I was deſtitute of money and ſubſiſtence, at my firſt coming in he ſeemed very tender of me, and charged the Keeper I ſhould want nothing, for as far as 40ſh. went, he would ſee him payd, which I beleive he muſt ere long, and after that ſent me a Letter, which is the onely paper I have by me of his, the other amorous and loving ſcriblings being loſt and taken from me, the ſame time that they plundered me of my Jewels, I do not know what I may do for them, but I hope I ſhall never cry for thoſe Epiſtles. This done in theſe words, ſo that my Love and my Dear, could be hot and cold almoſt in an inſtant.</p>
+            <pb facs="tcp:152596:96"/>
+            <pb facs="tcp:152596:97"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="81" facs="tcp:152596:97"/>
+                  <opener>
+                     <salute>My Deareſt Heart,</salute>
+                  </opener>
+                  <p>
+                     <hi>ALthough the manner of your <g ref="char:V">Ʋ</g>ſage may very well call the ſincerity of my Affection and Ex<g ref="char:EOLhyphen"/>preſſions to you in queſtion; Yet when I conſider, That thou art not ignorant of the Compulſion of my Father, and the</hi> Animoſity <hi>of my whole relations, both againſt You and my Self for Your ſake, I am very confident your goodneſs will pardon and paſs by thoſe things which at preſent I am no way able to help; And be you confident, That notwithſtanding my Friends averſion, there ſhall be nothing within the reach of my power ſhall be wanting, that may con<g ref="char:EOLhyphen"/>duce both to your liberty, main<g ref="char:EOLhyphen"/>tenance,
+<pb n="82" facs="tcp:152596:98"/>and Vindication. I ſhall very ſpeedily be in a condi<g ref="char:EOLhyphen"/>tion to furniſh you with Money, to ſupply you according to your deſire. I hope Mr.</hi> Bayly <hi>will be very civil to you; and let him be aſſured, he ſhall in a moſt exact meaſure be ſatisfied, and have a Requital for his Obligation. My deareſt, always praying for our happy meet<g ref="char:EOLhyphen"/>ing,</hi>
+                  </p>
+                  <closer>
+                     <signed>I reſt, Your moſt affectionate Hus<g ref="char:EOLhyphen"/>band. <hi>John Carleton.</hi>
+                     </signed>
+                     <dateline>
+                        <date>May the 11th. 1663.</date>
+                     </dateline>
+                  </closer>
+                  <pb facs="tcp:152596:98"/>
+                  <pb facs="tcp:152596:99"/>
+               </body>
+            </floatingText>
+            <pb n="83" facs="tcp:152596:99"/>
+            <p> Other of my Husband's Friends came to Viſit me in the <hi>Gate-houſe,</hi> (of the many hundreds of other I ſhall ſay nothing) one of them ſaid, Madam, I am one of your Hus<g ref="char:EOLhyphen"/>bands Friends and Acquain<g ref="char:EOLhyphen"/>tance, I had a deſire to ſee you, becauſe <hi>I</hi> have heard of your breeding. Alas, ſaid I, <hi>I</hi> have left that in the City amongſt my Kindred, becauſe they want it.</p>
+            <p>Another in his diſcourſe deli<g ref="char:EOLhyphen"/>vered as an Aphoriſm, <hi>That mar<g ref="char:EOLhyphen"/>riage and hanging went by Deſti<g ref="char:EOLhyphen"/>ny. I</hi> told him, <hi>I had received from the Deſtinies Marriage, and he in probability might Hanging.</hi> To waive many others of the like nature.</p>
+            <p>My innocence furniſhed me with ſeveral of thoſe anſwers,
+<pb n="84" facs="tcp:152596:100"/>and repartees to the mixt ſort of viſitants, who either for novelty or deſigne came to trouble me. I was adviſed indeed to ſeclude my ſelf from ſuch company, but becauſe there might be no diſadvantage pretended by reaſon I kept cloſe, and evi<g ref="char:EOLhyphen"/>dence might be puzled, not having ſeen me in ſo long a time, as afterwards at my Tryal might have been ſuggeſted, I gave all perſons the freedom of my Chamber. But for the Nobler ſort, I may in ſome mea<g ref="char:EOLhyphen"/>ſure thank my ſtars, that out of this misfortune extracted ſo much bliſs, as the honour of their acquaintance, which other wiſe at large I had been in no capacity to attain.</p>
+            <pb facs="tcp:152596:100"/>
+            <pb facs="tcp:152596:101"/>
+            <pb n="73" facs="tcp:152596:101"/>
+            <p> The time of the Seſſions of the Peace for <hi>London</hi> and <hi>Middleſex</hi> being arrived, I was conveyed from the Gate-houſe to New<g ref="char:EOLhyphen"/>gate; where by the civility of the Maſter of the priſon I had lodgings aſſigned me in his own houſe, which adjoyns to the Seſ<g ref="char:EOLhyphen"/>ſions-houſe-yard; and there I was publickly ſeen by all com<g ref="char:EOLhyphen"/>ers: that my enemies might want no advantage of informing their witneſſes of my Perſon, Age and condition, and ſo ſquare their Evidence: but my inno<g ref="char:EOLhyphen"/>cence and my good Angels pre<g ref="char:EOLhyphen"/>ſerved me from the worſt of their malice.</p>
+            <p>From thence, on Wedneſday, <hi>June</hi> the third, in the evening, the firſt day of the Courts ſit<g ref="char:EOLhyphen"/>ting in the <hi>Old-Bayly,</hi> I was brought down to the Bar: and there an Indictment upon my Arraignment was read againſt
+<pb n="74" facs="tcp:152596:102"/>me; to which I pleaded Not guilty: and, as inſtructed by my friends, and a good conſcience, (being altogether ignorant of the Laws and Cuſtoms of this King<g ref="char:EOLhyphen"/>dome) put my ſelf for my Triall upon God and the Country, without making any exception, or ever ſo much as examining what my Jury were.</p>
+            <p>And becauſe they approved themſelves men of honeſty, judg<g ref="char:EOLhyphen"/>ment and integrity, and did me ſo much juſtice, I can do no leſs then take occaſion here to return them my humble thanks, that they would regard the oppreſſed condition of a helpleſs priſoner; and not give credit to the wicked aſſeverations of a wretch, who onely ſwore to the purpoſe a<g ref="char:EOLhyphen"/>gainſt me: and to let the world know my particular gratitude, I will tranſcribe into this my <hi>Caſe,</hi> as one of the happieſt and
+<pb facs="tcp:152596:102"/>
+               <pb facs="tcp:152596:103"/>
+               <pb n="75" facs="tcp:152596:103"/>faireſt remarks therein, the names of thoſe upright Jurors, <hi>viz.</hi>
+               <list>
+                  <item>
+                     <hi>William Rutland,</hi>
+                  </item>
+                  <item>
+                     <hi>Arthur Vigers,</hi>
+                  </item>
+                  <item>
+                     <hi>Arthur Capel,</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Smith,</hi>
+                  </item>
+                  <item>
+                     <hi>Fran. Chaplin,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Harvey,</hi>
+                  </item>
+                  <item>
+                     <hi>Simon Driver,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Kerkham,</hi>
+                  </item>
+                  <item>
+                     <hi>Hugh Maſſon,</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Westley,</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Clutterbuck,</hi> and</item>
+                  <item>
+                     <hi>Randolph Tooke.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The Indictment was <hi>in haec verba.</hi>
+            </p>
+            <p>
+               <hi>That ſhe the ſaid</hi> Mary Moders, <hi>late of</hi> London <hi>Spinſter, otherwiſe</hi> Mary Stedman, <hi>the wife of</hi> Tho. Stedman <hi>late of the City of</hi> Canter<g ref="char:EOLhyphen"/>bury <hi>in the County of</hi> Kent <hi>Shooe<g ref="char:EOLhyphen"/>maker,</hi> 12 May, <hi>in the Reign of his now Majeſty the ſixth, at the Pariſh of St.</hi> Mildreds <hi>in the City of</hi> Cant.
+<pb n="76" facs="tcp:152596:104"/>
+               <hi>in the County aforeſaid, did take to husband the aforeſaid</hi> Tho. Sted<g ref="char:EOLhyphen"/>man, <hi>and him the ſaid</hi> Thomas Sted<g ref="char:EOLhyphen"/>man <hi>then and there had to husband. And that ſhe the ſaid</hi> Mary Moders, alias Stedman, 21 April, <hi>in the</hi> 15 <hi>year of his ſaid Majeſties Reign, at</hi> London, <hi>in the Pariſh of</hi> Great <hi>S.</hi> Bartholomews, <hi>in the Ward of</hi> Far<g ref="char:EOLhyphen"/>ringdon <hi>without, feloniouſly did take to husband one</hi> John Carleton, <hi>and to him was married, the ſaid</hi> Tho. Stedman <hi>her former husband then being alive, and in full life: againſt the form of the Statute in that caſe provided, and againſt the Peace of our ſaid Soveraign Lord the King, his Crown and Dignity,</hi> &amp;c.</p>
+            <p>After which being ſet to the Bar, in order to my Trial, I pray<g ref="char:EOLhyphen"/>ed time till the morrow, my witneſſes not being ready; which was granted: and all perſons concerned were ordered to at<g ref="char:EOLhyphen"/>tend at nine of the Clock in the Fore-noon.</p>
+            <pb facs="tcp:152596:104"/>
+            <pb facs="tcp:152596:105"/>
+            <pb n="77" facs="tcp:152596:105"/>
+            <p> Being returned to my lodging, where ſome Gentlemen gave me a viſit to counſell and adviſe me; my Husband Mr. <hi>Carleton</hi> came thither to take his leave of me, as I underſtood afterwards by his complement: but my Keep<g ref="char:EOLhyphen"/>er knowing of him, thought him not fit company for me, who was one of the cauſers of my in<g ref="char:EOLhyphen"/>jurious uſage: but notice at laſt being given me of it, I gave or<g ref="char:EOLhyphen"/>der for his admittance, and trea<g ref="char:EOLhyphen"/>ted him with that reſpect which became my Relation to him; though he, to add trouble to me, fell into more impertinent diſ<g ref="char:EOLhyphen"/>courſes concerning the ſhortneſs of my dayes, and ſpeedy prepara<g ref="char:EOLhyphen"/>tion of Repentance for another world; and that he would pray for me, and the like: to the which I replied, Pray my lord let none of thoſe things trouble you; I thank God I am as well as ever
+<pb n="78" facs="tcp:152596:106"/>in my life, and do of all things leaſt fear hanging: and as for your prayers, are you righteous or no? if not, they will ſo little availe me, that they will not pro<g ref="char:EOLhyphen"/>fit your ſelf. Hereupon a Gen<g ref="char:EOLhyphen"/>tleman to break off this diſcourſe drank to him in a glaſs of Ca<g ref="char:EOLhyphen"/>nary; which my Lord unhand<g ref="char:EOLhyphen"/>ſomely declining to accept, I could not forbear to tell him, I was ſorry to ſee his Lordſhip's ſlender breeding could not ſuffer him to be civill.</p>
+            <p>Thus the world may ſee how theſe mine Adverſaries had al<g ref="char:EOLhyphen"/>ready ſwallowed my life and my credit, and devoted them to the Gibbet without redemption: the onely ſecurity of all their paſt injuſtices towards me. — <hi>Per ſcelera ſceleribus eſt iter:</hi> they muſt end as they have begun. Thus the Devill and his imps were here fruſtrated.</p>
+            <pb facs="tcp:152596:106"/>
+            <pb facs="tcp:152596:107"/>
+            <pb n="79" facs="tcp:152596:107"/>
+            <p> For, on Thurſday <hi>June</hi> the fourth, I proceeded to Trial, ac<g ref="char:EOLhyphen"/>cording to appointment; but my fathers bandogs being not rea<g ref="char:EOLhyphen"/>dy, my husband came into the Court very ſpruce and trim, in one of his wedding-ſuits, and prayed the Court, that in re<g ref="char:EOLhyphen"/>ſpect his father and his witneſſes were not yet come together, or rather had not concinnated their lies to be found in one tale, that the Trial might be deferred for halfe an hour. I could not but ſmile to ſee my deare husband labour ſo to make ſure of my death, and with ſo little regard to paſs by his dear Princeſs with<g ref="char:EOLhyphen"/>out ſo much as vouchſafing a look to her; as if he were an<g ref="char:EOLhyphen"/>gry at his eyes for having beheld ſo much already. But to ab<g ref="char:EOLhyphen"/>rupt theſe thoughts, and to con<g ref="char:EOLhyphen"/>tinue the diſcourſe: the Court growing impatient of theſe un<g ref="char:EOLhyphen"/>civil
+<pb n="80" facs="tcp:152596:108"/>civil delayes, and telling my fa<g ref="char:EOLhyphen"/>ther-in-law that they were not bound to wait on him or his wit<g ref="char:EOLhyphen"/>neſſes; they were now produced before them, and ſworn; and with old <hi>Carleton</hi> himſelf were ſix in number: namely, <hi>James Knot,</hi> one that will almoſt cleave a hair; <hi>William Clark,</hi> and <hi>George Carleton</hi> her brother-in-law; Mr. <hi>Smith</hi> the Parſon, and one <hi>Sarah Williams;</hi> which for fuller infor<g ref="char:EOLhyphen"/>mation of the world, I will give, with a review of the whole Tri<g ref="char:EOLhyphen"/>all, according to the exacteſt co<g ref="char:EOLhyphen"/>py of it, which was taken in ſhort-hand at my deſire.</p>
+            <sp>
+               <speaker>James Knot.</speaker>
+               <p>My Lord, and Gentlemen of the Jury, I gave this woman in Marriage to one <hi>Thomas Stedman,</hi> which is now a<g ref="char:EOLhyphen"/>live in <hi>Dover,</hi> and I ſaw him laſt week.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Where was ſhe married?</p>
+            </sp>
+            <sp>
+               <speaker>Knot.</speaker>
+               <p>In <hi>Canterbury.</hi>
+               </p>
+               <pb facs="tcp:152596:108"/>
+               <pb facs="tcp:152596:109"/>
+            </sp>
+            <sp>
+               <pb n="81" facs="tcp:152596:109"/>
+               <speaker>Court.</speaker>
+               <p>Where there?</p>
+            </sp>
+            <sp>
+               <speaker>Knot.</speaker>
+               <p>In St. <hi>Mildreds,</hi> by one Parſon <hi>Man,</hi> who is now dead.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>How long ſince were they married?</p>
+            </sp>
+            <sp>
+               <speaker>Knot.</speaker>
+               <p>About nine years ago.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Did they live together afterwards?</p>
+            </sp>
+            <sp>
+               <speaker>Knot.</speaker>
+               <p>Yes, about four years, and had two children.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>You gave her in marri<g ref="char:EOLhyphen"/>age, but did the Miniſter give her to her husband then?</p>
+            </sp>
+            <sp>
+               <speaker>Knot.</speaker>
+               <p>Yes, and they lived to<g ref="char:EOLhyphen"/>gether.</p>
+            </sp>
+            <sp>
+               <speaker>Jury.</speaker>
+               <p>Friend, did you give this very Woman?</p>
+            </sp>
+            <sp>
+               <speaker>Knot.</speaker>
+               <p>Yes.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>What company was there?</p>
+            </sp>
+            <sp>
+               <speaker>Knot.</speaker>
+               <p>There was the married Couple, her ſiſter, my ſelf, the Parſon and the Sexton.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Where is that Sexton?</p>
+            </sp>
+            <sp>
+               <speaker>Knot.</speaker>
+               <p>I know not, my Lord.</p>
+            </sp>
+            <sp>
+               <pb n="82" facs="tcp:152596:110"/>
+               <speaker>Court.</speaker>
+               <p>You are ſure they were married in the Church, and this is the woman?</p>
+            </sp>
+            <sp>
+               <speaker>Knot.</speaker>
+               <p>Yes, I am ſure of it.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>How long ago?</p>
+            </sp>
+            <sp>
+               <speaker>Knot.</speaker>
+               <p>About nine years ago.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Did you know this wo<g ref="char:EOLhyphen"/>man before the Marriage? and how long?</p>
+            </sp>
+            <sp>
+               <speaker>Knot.</speaker>
+               <p>Yes, I knew her a long time; I was an Apprentice ſeven years near her Mothers houſe in <hi>Canterbury.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Then ſhe's no forreign Princeſs? Of what Parentage was ſhe?</p>
+            </sp>
+            <sp>
+               <speaker>Knot.</speaker>
+               <p>I did not know her own father (and in that he might be believed) but her father-in-law was a Muſitian there.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>You ſee her married: what words were uſed at her marriage, and in what manner?</p>
+            </sp>
+            <sp>
+               <speaker>Knot.</speaker>
+               <p>They were married ac<g ref="char:EOLhyphen"/>cording to the order of the Land,
+<pb facs="tcp:152596:110"/>
+                  <pb facs="tcp:152596:111"/>
+                  <pb n="83" facs="tcp:152596:111"/>a little before the Act came forth touching Marriages by Juſtices of the Peace.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Was it by the Form of Common-Prayer, any thing read of that Form?</p>
+            </sp>
+            <sp>
+               <speaker>Knot.</speaker>
+               <p>I did not take notice of that: I was but a young man, and was deſired to go along with them.</p>
+               <p>
+                  <hi>William Clark</hi> being ſworn, ſaid, My Lord, I was laſt week in <hi>Dover,</hi> in company with this <hi>James Knot,</hi> and <hi>Thomas Stedman,</hi> and he the ſaid <hi>Stedman</hi> did own that he did marry one <hi>Mary Mo<g ref="char:EOLhyphen"/>ders,</hi> a daughter of one in <hi>Can<g ref="char:EOLhyphen"/>terbury,</hi> and that <hi>Knot</hi> gave her, and that he had two children by her, and declared his willingneſs to come up to give evidence a<g ref="char:EOLhyphen"/>gainſt her, but wanted money for his journey: And I have under<g ref="char:EOLhyphen"/>ſtood that a perſon here in Court was of a Jury at <hi>Canterbury,</hi> at a
+<pb n="84" facs="tcp:152596:112"/>Triall between <hi>Day</hi> and <hi>Mary Stedman</hi> at the Bar for having two husbands.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Was ſhe cleared?</p>
+            </sp>
+            <sp>
+               <speaker>Clark.</speaker>
+               <p>I cannot tell.</p>
+               <p>Young <hi>Carletons</hi> father ſworn.</p>
+               <p>My Lord, I was at <hi>Dover</hi> the laſt week on Wedneſday; I ſaw the husband of this woman, and the man acknowledged himſelf to be ſo; and did ſay that <hi>James Knot</hi> was the man that gave her in marriage to him.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Where is this man her husband? Hearſays muſt con<g ref="char:EOLhyphen"/>demn no man: what do you know of your own knowledge?</p>
+            </sp>
+            <sp>
+               <speaker>Carleton the Elder.</speaker>
+               <p>I know the man is alive.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Do you know he was married to her?</p>
+            </sp>
+            <sp>
+               <speaker>Carleton.</speaker>
+               <p>Not I, my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Sarah Williams.</speaker>
+               <p>My Lord, This Woman was bound for <hi>Barba<g ref="char:EOLhyphen"/>does,</hi> to go along with my hus<g ref="char:EOLhyphen"/>band,
+<pb facs="tcp:152596:112"/>
+                  <pb facs="tcp:152596:113"/>
+                  <pb n="85" facs="tcp:152596:113"/>and ſhe deſired to lodge at our houſe for ſome time, and did ſo; and when the ſhip was rea<g ref="char:EOLhyphen"/>dy to go, ſhe went into <hi>Kent</hi> to receive her means, and ſaid ſhe would meet the ſhip in the <hi>Downs;</hi> and miſſing the ſhip, took boat and went to the ſhip. After ſeverall dayes remaining there, there came her husband with an Order and fetched her aſhore, and carried her to <hi>Dover</hi>-Caſtle.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>VVhat was his name that had an Order to bring her on ſhore again?</p>
+            </sp>
+            <sp>
+               <speaker>Sarah Williams.</speaker>
+               <p>His name was <hi>Thomas Stedman.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Have you any more to prove the firſt marriage?</p>
+            </sp>
+            <sp>
+               <speaker>Carlton the Elder.</speaker>
+               <p>No, none but <hi>Knot;</hi> there wa s none but three, the Miniſter dead, the Sexton not to be found, and this <hi>Knot</hi> who hath given Evidence.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>What became of the
+<pb n="86" facs="tcp:152596:114"/>two children, <hi>Knot?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Knot.</speaker>
+               <p>They both died.</p>
+            </sp>
+            <sp>
+               <speaker>Carlton the Elder.</speaker>
+               <p>
+                  <hi>Stedman</hi> ſaid in my hearing, that he had lived four years with her, had two children by her, and both dead; five years ago laſt <hi>Eaſter</hi> ſince ſhe left him.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Mr. <hi>Carlton,</hi> VVhat have you heard this VVoman ſay?</p>
+            </sp>
+            <sp>
+               <speaker>Carlton.</speaker>
+               <p>My Lord, ſhe will confeſs nothing, that pleaſes him.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Mr. <hi>Carlton,</hi> did you look in the Church-Regiſter for the firſt marriage?</p>
+            </sp>
+            <sp>
+               <speaker>Carlton.</speaker>
+               <p>I did look in the Book, and he that is now Clerk, was then Sexton (juſt now not to be found;) he told me, that Mar<g ref="char:EOLhyphen"/>riages being then very nume<g ref="char:EOLhyphen"/>rous, preceding the Act before-mentioned, the then Clerk had neglected the Regiſtry of this
+<pb facs="tcp:152596:114"/>
+                  <pb facs="tcp:152596:115"/>
+                  <pb n="87" facs="tcp:152596:115"/>Marriage. If ſhe intended this Trade, ſhe likewiſe knew how to make the Clerk miſtake Regi<g ref="char:EOLhyphen"/>ſtring the Marriage.</p>
+               <p>Young <hi>Carlton</hi>'s brother ſworn, who ſaid,</p>
+               <p>My Lord and Gentlemen of the Jury, I was preſent at the Marriage of my Brother with this Gentlewoman, which was on or about 21 <hi>April,</hi> 1663. They were married at Great St. <hi>Bartholomews,</hi> by one Mr. <hi>Smith</hi> a Miniſter here in Court, by Li<g ref="char:EOLhyphen"/>cence.</p>
+               <p>Mr. <hi>Smith</hi> the Parſon-ſworn.</p>
+               <p>My Lord, all that I can ſay, is this, that Mr. <hi>Carlton</hi> the younger told me of ſuch a buſineſs, and deſired me to marry them; they came to Church, and I did mar<g ref="char:EOLhyphen"/>ry them by the Book of Com<g ref="char:EOLhyphen"/>mon Prayer.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Mr. <hi>Smith,</hi> are you ſure that is the Woman?</p>
+            </sp>
+            <sp>
+               <pb n="88" facs="tcp:152596:116"/>
+               <speaker>Parſon.</speaker>
+               <p>Yes, my Lord, it is; I believe ſhe will not deny it.</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>Yes, my Lord, I con<g ref="char:EOLhyphen"/>feſs I am the Woman.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Have you any more witneſſes?</p>
+            </sp>
+            <sp>
+               <speaker>Carlton.</speaker>
+               <p>We can get no more but <hi>Knot</hi> to prove the firſt Mar<g ref="char:EOLhyphen"/>riage; the laſt is clear.</p>
+               <p>Judge <hi>Howel.</hi> VVhere is <hi>Knot?</hi> Remember your ſelf well what you ſaid before. You ſay, you know that VVoman at the Bar; that you had known her a great while; that ſhe was born near you in <hi>Canterbury;</hi> that you were preſent at her marriage; that Parſon <hi>Man</hi> married them; that none were preſent but your ſelf, the married couple, Parſon, Sex<g ref="char:EOLhyphen"/>ton, and her ſiſter.</p>
+            </sp>
+            <sp>
+               <speaker>Knot.</speaker>
+               <p>Some others came into the Church, but none that I knew; I am ſure none went with her, but thoſe I named.</p>
+            </sp>
+            <pb facs="tcp:152596:116"/>
+            <pb facs="tcp:152596:117"/>
+            <sp>
+               <pb n="89" facs="tcp:152596:117"/>
+               <speaker>Court.</speaker>
+               <p>Who gave her in mar<g ref="char:EOLhyphen"/>riage?</p>
+            </sp>
+            <sp>
+               <speaker>Knot.</speaker>
+               <p>I did.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>How came you to do it?</p>
+            </sp>
+            <sp>
+               <speaker>Knot.</speaker>
+               <p>I was <hi>Stedmans</hi> ſhop<g ref="char:EOLhyphen"/>mate, and he deſired me to go a<g ref="char:EOLhyphen"/>long with him.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>VVere her Parents then living, or no?</p>
+            </sp>
+            <sp>
+               <speaker>Knot.</speaker>
+               <p>Her Mother was.</p>
+            </sp>
+            <sp>
+               <speaker>Jury.</speaker>
+               <p>How old are you?</p>
+            </sp>
+            <sp>
+               <speaker>Knot.</speaker>
+               <p>Two or three and thirty years.</p>
+            </sp>
+            <sp>
+               <speaker>Jury.</speaker>
+               <p>How long ago was this marriage?</p>
+            </sp>
+            <sp>
+               <speaker>Knot.</speaker>
+               <p>About nine years ſince.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Then he was twenty three, and might do it. What is your Trade of life?</p>
+            </sp>
+            <sp>
+               <speaker>Knot.</speaker>
+               <p>I am a Cordweyner, o<g ref="char:EOLhyphen"/>therwiſe, a Shoomaker; <hi>Sted<g ref="char:EOLhyphen"/>man</hi> was ſo too: we wrought both together.</p>
+            </sp>
+            <sp>
+               <speaker>Jury.</speaker>
+               <p>We deſire to know whe<g ref="char:EOLhyphen"/>ther ſhe bad a Father and Mo<g ref="char:EOLhyphen"/>ther
+<pb n="90" facs="tcp:152596:118"/>then living.</p>
+            </sp>
+            <sp>
+               <speaker>Knot.</speaker>
+               <p>She had a Father-in-law.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Did you know her Mo<g ref="char:EOLhyphen"/>ther?</p>
+            </sp>
+            <sp>
+               <speaker>Knot.</speaker>
+               <p>Yes.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>How long before that Marriage did her own Father die?</p>
+            </sp>
+            <sp>
+               <speaker>Knot.</speaker>
+               <p>I did not know him. He ſaid ſo before indeed.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>What age was ſhe when married?</p>
+            </sp>
+            <sp>
+               <speaker>Knot.</speaker>
+               <p>I ſuppoſe nineteen or twenty.</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>May it pleaſe your Honours, and Gentlemen of the Jury, you have heard the ſeveral witneſſes, and I think this whole Country cannot but plainly ſee the malice of my Husbands Fa<g ref="char:EOLhyphen"/>ther againſt me; how he cauſe<g ref="char:EOLhyphen"/>leſsly hunts after my life: when his Son, my Husband, came and addreſſed himſelf to me, preten<g ref="char:EOLhyphen"/>ding
+<pb facs="tcp:152596:118"/>
+                  <pb facs="tcp:152596:119"/>
+                  <pb n="91" facs="tcp:152596:119"/>himſelf a perſon of honour, and upon firſt ſight preſſed me to marriage; I told him, Sir, ſaid I, I am a ſtranger, have no acquaintance here, and deſire you to deſiſt your ſuit: I could not ſpeak my minde, but he (ha<g ref="char:EOLhyphen"/>ving borrowed ſome thred-bare Complements) replied, <hi>Madam,</hi> your ſeeming virtues, your ami<g ref="char:EOLhyphen"/>able perſon, and noble deport<g ref="char:EOLhyphen"/>ment, renders you ſo excellent, that were I in the leaſt intereſt<g ref="char:EOLhyphen"/>ed in you, I cannot doubt of hap<g ref="char:EOLhyphen"/>pineſs: and ſo with many words to the like purpoſe, courted me. I told him, and indeed could not but much wonder, that at ſo ſmall a glance he could be ſo preſumptuous with a ſtranger, to hint this to me; but all I could ſay, would not beat him off: And preſently afterwards he having intercepted my Letter, by which he underſtood how my affairs
+<pb n="92" facs="tcp:152596:120"/>ſtood, and how conſiderable my means were, he ſtill urged me to marry him; and immediately by the contrivance of his friends, gaping at my fortune, I was hur<g ref="char:EOLhyphen"/>ried to Church to be married; which the Parſon at firſt did without Licence, to ſecure me to my Husband, and ſometime af<g ref="char:EOLhyphen"/>ter had a Licence.</p>
+               <p>And my Husbands Father af<g ref="char:EOLhyphen"/>terwards conſidering I had a conſiderable fortune, preſſed me, that in reſpect I had no relations here, and becauſe, ſayes he, we are mortall, you would do well to make over your Eſtate to my Son your Husband; it will be much for your honour, ſatisfacti<g ref="char:EOLhyphen"/>on of the world, and for which you will be chronicled for a rare woman: and perceiving he had not baited his hook ſufficient (with ſome fair pretences) to catch me then, he and his Son,
+<pb facs="tcp:152596:120"/>
+                  <pb facs="tcp:152596:121"/>
+                  <pb n="93" facs="tcp:152596:121"/>who were both willing to make up ſome of their former loſſes in circumventing me of what I had, they robb'd me of my Jewels, and Clothes of great value, and afterwards pretended they were counterfeit Jewells; and decla<g ref="char:EOLhyphen"/>red, that I had formerly been married to one at <hi>Canterbury,</hi> which place I know not; and this grounded on a Letter (of their own framing) ſent from <hi>Dover,</hi> with a deſcription of me; that I was a young fat wo<g ref="char:EOLhyphen"/>man, full breſted; that I ſpoke ſeverall languages; and there<g ref="char:EOLhyphen"/>fore they imagined me the per<g ref="char:EOLhyphen"/>ſon; and ſo violently carried me from my lodging before a Ju<g ref="char:EOLhyphen"/>ſtice of Peace, only to affright me, that I might make my Eſtate over to them. The Juſtice having heard their ſeverall allegations, could not commit me, unleſs they would be bound to proſecute me;
+<pb n="94" facs="tcp:152596:122"/>which my husband being unwil<g ref="char:EOLhyphen"/>ling to, the Juſtice demanded of his Father whether he would proſecute me, ſaying, they muſt not make a fool of him; and ſo after ſome whiſperings, the Fa<g ref="char:EOLhyphen"/>ther and his Son were both bound to proſecute; and there<g ref="char:EOLhyphen"/>upon I was committed to priſon: And ſince that, theſe people have been up and down the Country, and finding none there that could juſtifie any thing of this matter, they get here an un<g ref="char:EOLhyphen"/>known fellow, unleſs in a priſon, and from thence borrowed, you cannot but all judge, to ſwear a<g ref="char:EOLhyphen"/>gainſt me. My Lord, were there any ſuch Marriage as this fellow pretends, methinks there might be a Certificate from the Mini<g ref="char:EOLhyphen"/>ſter, or place; certainly if mar<g ref="char:EOLhyphen"/>ried, it muſt be regiſtred: but there is no Regiſtry of it, and ſo can be no Certificate, no Mini<g ref="char:EOLhyphen"/>ſter
+<pb facs="tcp:152596:122"/>
+                  <pb facs="tcp:152596:123"/>
+                  <pb n="95" facs="tcp:152596:123"/>nor Clerk to be found: and if I ſhould own a marriage, then you ſee that great witneſs can<g ref="char:EOLhyphen"/>not tell you, whether I was law<g ref="char:EOLhyphen"/>fully married, or how? but it is enough for him (if ſuch a paul<g ref="char:EOLhyphen"/>try fellow may be believed) to ſay, I was married. I was never yet married to any but <hi>John Carl<g ref="char:EOLhyphen"/>ton,</hi> the late pretended Lord: But theſe perſons have ſought al<g ref="char:EOLhyphen"/>wayes to take away my life, bring perſons to ſwear againſt me, one hired with five pounds, and another old fellow perſwa<g ref="char:EOLhyphen"/>ded to own me for his Wife; who came to the priſon, and ſee<g ref="char:EOLhyphen"/>ing another woman, owned her, and afterwards my ſelf, and in<g ref="char:EOLhyphen"/>deed any body. If ſuch an old in<g ref="char:EOLhyphen"/>conſiderable fellow had hereto<g ref="char:EOLhyphen"/>fore wooed me, it muſt have been for want of diſcretion, as <hi>Carle<g ref="char:EOLhyphen"/>ton</hi> did for want of money; but I know of no ſuch thing. Seve<g ref="char:EOLhyphen"/>ral
+<pb n="96" facs="tcp:152596:124"/>ſcandals have been laid upon me, but no mortall fleſh can truly touch the leaſt hair of my head for any ſuch like offence: they have framed this of them<g ref="char:EOLhyphen"/>ſelves. My Lord, I am a ſtran<g ref="char:EOLhyphen"/>ger, and a forreigner; and being informed there is matter of Law in this Trial for my life, my in<g ref="char:EOLhyphen"/>nocence ſhall be my Counſellor, and your Lordſhips my Judges, to whom I wholly refer my Cauſe. Since I have been in pri<g ref="char:EOLhyphen"/>ſon, ſeveral from <hi>Canterbury</hi> have been to ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e me; pretending themſelves (if I were the per<g ref="char:EOLhyphen"/>ſon as was related) to be my ſchool-mates; and when they came to me, the Keeper can ju<g ref="char:EOLhyphen"/>ſtifie, they all declared that they did not know me.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>
+                  <hi>Knot,</hi> You ſaid ſhe li<g ref="char:EOLhyphen"/>ved near you at <hi>Canterbury;</hi> What woman or man there have you to prove ſhe lived
+<pb facs="tcp:152596:124"/>
+                  <pb facs="tcp:152596:125"/>
+                  <pb n="97" facs="tcp:152596:125"/>there? have you none in that whole City, neither for love of Juſtice nor Right, will come to ſay ſhe lived there?</p>
+            </sp>
+            <sp>
+               <speaker>Knot.</speaker>
+               <p>I believe I could fetch one.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Well ſaid, are they to fetch ſtill?</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>My Lord, I deſire ſome Witneſſes may be heard in my behalf.</p>
+            </sp>
+            <p>
+               <hi>Elizabeth Collier</hi> examined. My Lord, my Husband being a Priſoner in the <hi>Gatehouſe,</hi> I came there to ſee my Husband, and did work there a dayes; and there came in an old man, his name was <hi>Billing,</hi> he ſaid he had a wife there; ſays Mr. <hi>Baley,</hi> Go in and finde her out; and he ſaid I was his wife, turned my hood, and put on his ſpectacles, looks upon me, and ſaid I was the ſame woman his wife; and af<g ref="char:EOLhyphen"/>terwards ſaid I was not, and ſo
+<pb n="98" facs="tcp:152596:126"/>to others: I can ſay no more.</p>
+            <p>
+               <hi>Jane Finch</hi> examined.</p>
+            <p>My Lord, there came a man and woman one night, and knockt at my door; I came down, they asked to ſpeak with one <hi>Jane Finch.</hi> I am the perſon, ſaid I. We underſtand, ſaid they, you know Miſtriſs <hi>Carleton</hi> now in priſon. Not I, ſaid I, I onely went to ſee her there. Said they, Be not ſcrupulous: if you will go and juſtifie any thing againſt her, we will give you 5 <hi>l.</hi>
+            </p>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Who are thoſe two?</p>
+            </sp>
+            <sp>
+               <speaker>Finch.</speaker>
+               <p>I do not know them, my Lord.</p>
+            </sp>
+            <p>Mr. <hi>Baley</hi> examined.</p>
+            <p>My Lord, there has been at leaſt 500. people have viewed her; ſeverall from <hi>Canterbury,</hi> fourty at leaſt that ſaid they li<g ref="char:EOLhyphen"/>ved there; and when they went up to her, ſhe hid not her face at
+<pb facs="tcp:152596:126"/>
+               <pb facs="tcp:152596:127"/>
+               <pb n="99" facs="tcp:152596:127"/>all, but not one of them knew her.</p>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>What Country-wo<g ref="char:EOLhyphen"/>man are you?</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>I was born in <hi>Cullen</hi> in <hi>Germany.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Mr. <hi>Carleton,</hi> How came you to underſtand ſhe was mar<g ref="char:EOLhyphen"/>ried formerly?</p>
+            </sp>
+            <sp>
+               <speaker>Carlton the elder.</speaker>
+               <p>I received a Letter from the Recorder of <hi>Can<g ref="char:EOLhyphen"/>terbury</hi> to that purpoſe.</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>They that can offer five pound to ſwear againſt me, can alſo frame a Letter againſt me: they ſay I was nineteen years of age about nine years ago, and I am now but one and twenty.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Mr. <hi>Carlton,</hi> you heard what <hi>Knot</hi> ſaid; he ſaid ſhe lived near him four years a wife: why did not you get ſome body elſe from thence to teſtifie this?</p>
+            </sp>
+            <sp>
+               <speaker>Carleton.</speaker>
+               <p>Here was one <hi>Davis</hi>
+                  <pb n="100" facs="tcp:152596:128"/>that was at her Fathers houſe, and ſpoke with him —</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Where is he?</p>
+            </sp>
+            <sp>
+               <speaker>Carlton.</speaker>
+               <p>I know not; he was here.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>You were telling the Court of a former indictment againſt her, what was that for?</p>
+            </sp>
+            <sp>
+               <speaker>Carlton.</speaker>
+               <p>She was indicted for having two husbands, <hi>Stedman</hi> of <hi>Canterbury</hi> her firſt Husband, and <hi>Day</hi> of <hi>Dover</hi> Chirurgion, her ſecond Husband. The indict<g ref="char:EOLhyphen"/>ment was Traverſed the year be<g ref="char:EOLhyphen"/>fore His Majeſty came to <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> ſhe was found not guilty.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>who was a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that Trial?</p>
+            </sp>
+            <sp>
+               <speaker>Carlton.</speaker>
+               <p>One here in Court was of the Jury; but that party ſaid there was ſuch a trial, but knows not that this is the Wo<g ref="char:EOLhyphen"/>man.</p>
+            </sp>
+            <sp>
+               <speaker>Judge <hi>Howel.</hi>
+               </speaker>
+               <p>Gentlemen of the Jury, you ſee this indictment is againſt <hi>Mary Moders,</hi> other<g ref="char:EOLhyphen"/>wiſe
+<pb facs="tcp:152596:128"/>
+                  <pb facs="tcp:152596:129"/>
+                  <pb n="101" facs="tcp:152596:129"/>
+                  <hi>Stedman,</hi> and it is for having two husbands, both at one time alive; the firſt <hi>Stedman,</hi> after<g ref="char:EOLhyphen"/>wards married to <hi>Carlton,</hi> her former husband being alive. You have heard the proof of the firſt marriage, and the proof doth depend upon one witneſs, that is <hi>Knot;</hi> and he indeed doth ſay, he was at the marriage, gave her, and he names one <hi>Man,</hi> the Parſon that married her, that he is dead; none preſent there but the married couple that muſt needs be there, the Parſon, this witneſs, her ſiſter, and the Sex<g ref="char:EOLhyphen"/>ton; that he knows not what is become of the Sexton. All the Evidence given on that ſide to prove her guilty of this Indict<g ref="char:EOLhyphen"/>ment, depends upon his ſingle teſtimony. It is true, he ſays ſhe was married at <hi>Canterbury,</hi> but the particulars, or the manner of the marriage he doth not well
+<pb n="102" facs="tcp:152596:130"/>remember; whether by the Book of Common-Prayer, or other<g ref="char:EOLhyphen"/>wayes: but they lived together for four years, had two Chil<g ref="char:EOLhyphen"/>dren. If ſhe were born there, married there, had two children there, and lived there ſo long, it were eaſie to have brought ſome body to prove this; that is all that is material for the firſt mar<g ref="char:EOLhyphen"/>riage.</p>
+               <p>For the ſecond, there is little proof neceſſary: ſhe confeſſes her ſelf married to <hi>Carlton,</hi> and owns him; the queſtion is, Whether ſhe was married to <hi>Stedman,</hi> or not?</p>
+               <p>You have heard what defence ſhe hath made for her ſelf, ſome Witneſſes on her behalf; if you believe that <hi>Knot,</hi> the ſingle wit<g ref="char:EOLhyphen"/>neſs, ſpeaks the truth ſo far forth to ſatisfie your conſcience, that that was a marriage, ſhe is guil<g ref="char:EOLhyphen"/>ty. You ſee what the circum<g ref="char:EOLhyphen"/>ſtances
+<pb facs="tcp:152596:130"/>
+                  <pb facs="tcp:152596:131"/>
+                  <pb n="103" facs="tcp:152596:131"/>are, it is penal; if guilty, ſhe muſt die; a Woman hath no Clergy, ſhe is to die by the Law, if guilty. You heard ſhe was indicted at <hi>Dover</hi> for having two husbands, <hi>Stedman</hi> the firſt, and <hi>Day</hi> the ſecond. There it ſeems by that which they have ſaid, ſhe was acquitted; none can ſay this was the woman: that there was a Trial, may be believ<g ref="char:EOLhyphen"/>ed; but whether this be the wo<g ref="char:EOLhyphen"/>man tried or acquitted, doth not appear. One here that was of that Jury, ſays, there was a Tri<g ref="char:EOLhyphen"/>al, but knows not that this is the Woman. So that upon the whole, it is left to you to give your Verdict.</p>
+            </sp>
+            <p>The Jury went forth, and after ſome ſhort Conſulta<g ref="char:EOLhyphen"/>tion, returned to their pla<g ref="char:EOLhyphen"/>ces.</p>
+            <sp>
+               <speaker>Clerk.</speaker>
+               <p>
+                  <hi>Mary Moders, alias Sted<g ref="char:EOLhyphen"/>man,</hi> hold up thy hand; look up<g ref="char:EOLhyphen"/>on
+<pb n="104" facs="tcp:152596:132"/>her Gentlemen, what ſay you? Is ſhe guilty of the Felony whereof ſhe ſtands indicted, or not guilty?</p>
+            </sp>
+            <sp>
+               <speaker>Foreman.</speaker>
+               <p>Not guilty. And thereupon a great number of people being in and about the Court, hiſſed and clapped their hands.</p>
+            </sp>
+            <sp>
+               <speaker>Clerk.</speaker>
+               <p>Did ſhe flie for it?</p>
+            </sp>
+            <sp>
+               <speaker>Foreman.</speaker>
+               <p>Not that we know.</p>
+            </sp>
+            <p>Afterwards I deſired, that my Jewells and Cloaths, taken from me, might be reſtored to me: The Court acquainted me, that they were my husbands, and that if any detained them from me, he might have his remedy at Law. I then charging old Mr. <hi>Carleton</hi> with them, he declared they were already in the cuſtody of his Son her husband. So that if they had been counterfeit, as they all along pretended, I doubt
+<pb facs="tcp:152596:132"/>
+               <pb facs="tcp:152596:133"/>
+               <pb n="105" facs="tcp:152596:133"/>not but that they would have had ſo much confidence and ju<g ref="char:EOLhyphen"/>ſtice for themſelves, as to have acquainted the Court with ſo much, to the bettering the envy and ſcandal of their groſs abuſes: but concerning the real worth of thoſe Jewels, I ſhall have further occaſion to ſpeak preſently.</p>
+            <p>Being thus fairly acquitted, <hi>I</hi> was carried back to my former Lodgings; where, among other viſits, <hi>I</hi> had one from my Hus<g ref="char:EOLhyphen"/>bands near Friend, who but two hours before had ſwore and threatned my death: yet to feel my temper in this diſappoint<g ref="char:EOLhyphen"/>ment of their bloody deſigne a<g ref="char:EOLhyphen"/>gainſt me, he was ſent with an impertinent ſtory into my com<g ref="char:EOLhyphen"/>pany, where he began to glaver, and offer me a glaſs of Wine; (above which their generoſity yet never reached:) but my paſ<g ref="char:EOLhyphen"/>ſions
+<pb n="106" facs="tcp:152596:134"/>were ſo high at the very ſight of him, that <hi>I</hi> bid him get him out of the room, and not trouble me with his company: which he did, by ſlinking from me, as the Dog in the Proverb that had loſt his Tayl.</p>
+            <p>They thought being thus freed <hi>I</hi> would have ranted and vapoured, and gave them ſome further unwary hint of my con<g ref="char:EOLhyphen"/>dition, as being now out of dan<g ref="char:EOLhyphen"/>ger: but <hi>I</hi> (that knew myſelf not to be in any) was tranſport<g ref="char:EOLhyphen"/>ed with no ſuch exultation, but kept the ſame equanimity and conſtant tenour; no leſs affected with the triumphs of Juſtice, then thoſe of my Honour and Reputation.</p>
+            <p>Hitherto they have not found any thing unbecoming the per<g ref="char:EOLhyphen"/>ſon I am, or what they made me to be, except in my neceſſities, and that frequency of company
+<pb facs="tcp:152596:134"/>
+               <pb facs="tcp:152596:135"/>
+               <pb n="107" facs="tcp:152596:135"/>to which they have ſubjected me by falſe impriſonment, and other ſcandals; which I could not bet<g ref="char:EOLhyphen"/>ter remove, then by my bare<g ref="char:EOLhyphen"/>fac'd appearance to all comers: ſo that that which other women hide and mask for modeſty, I muſt ſhew and ſet to publick view for my juſtification.</p>
+            <p>On the ſixth of <hi>June,</hi> being Sa<g ref="char:EOLhyphen"/>turday, I was diſcharged of my confinement, (having been all along moſt civilly uſed by the Maſters and Keepers of both the Priſons where I was in durance; but indeed rather in the ſuburbs of a Priſon, then a Priſon it ſelf; for which I am their Debtor) and did expect that my husband, by whom I was committed, that is, by his Relations, would have brought me out; and I ſtayed there to that purpoſe two days after my acquittal and purgati<g ref="char:EOLhyphen"/>on: but no ſuch matter; they had
+<pb n="108" facs="tcp:152596:136"/>got my Eſtate, I might do what I would with my perſon; the groundleſs ſlaunders they had caſt upon that, ſhould yet ſerve turn to infame my bed; and the Counterfeit, though after convi<g ref="char:EOLhyphen"/>ction of the falſhood thereof, muſt be ſeparated and divor<g ref="char:EOLhyphen"/>ced: but the counterfeit Jewels they'll <hi>Hug</hi> and <hi>Embrace,</hi> and <hi>part</hi> withal at no rate.</p>
+            <p>And therefore in ſtead of my lawful and true Husband, they endeavoured to put a counterfeit upon me: but too much are they ſtupified, in ſtead of being ſubli<g ref="char:EOLhyphen"/>med in this myſterious way of cheat, which as in melancholy people, works ſtill-in their fancy that they ſent me the moſt ridi<g ref="char:EOLhyphen"/>culous Dotard for Husband-Gentleman-Uſher, that ever wo<g ref="char:EOLhyphen"/>man laid eye on: a Fellow that could be no younger then brother to Mother <hi>Shipton,</hi> and had his
+<pb facs="tcp:152596:136"/>
+               <pb facs="tcp:152596:137"/>
+               <pb n="109" facs="tcp:152596:137"/>Prophetical Spectacles to fit him for a Legacy.</p>
+            <p>It was one of my pretended husbands, by whom a Bill was preferred (but not found, as I ſaid before) by <hi>Billing</hi> the Brick-lay<g ref="char:EOLhyphen"/>er. Upon <hi>Whitſun-Monday,</hi> the 8th of <hi>June</hi> inſtant, the ſaid <hi>Bil<g ref="char:EOLhyphen"/>ling</hi> came to <hi>Newgate,</hi> demanded of the Keepers to deliver his Wife to him. The Turn-Key, and other ſubordinate Officers of the Goal, told him, They had none of his Wife. He inſiſted upon it, and with-ſtood all deni<g ref="char:EOLhyphen"/>al, mentioned my name, and the particulars of my Trial. The Keepers remembring there was a former miſtake of the ſame perſon, given in Evidence on my behalf at the Trial, called one <hi>Grizel Hudſon</hi> a Convict, a pretty Woman, and in good habit: the Turn-Key asked <hi>Bil<g ref="char:EOLhyphen"/>ling,</hi> Whether this was his
+<pb n="110" facs="tcp:152596:138"/>Wife? <hi>Billing</hi> replied, <hi>Yes;</hi> and askt her, Why ſhe did not come to him upon his firſt ſending for her? She told him, That the Keepers would not permit her to ſtir out of the Priſon, in regard her Fees were not paid. <hi>Billing</hi> ſaid, He would pay the Fees; and whiſpered her in the Ear, ſaying, That they had a minde to hang her (meaning the <hi>Carle<g ref="char:EOLhyphen"/>tons</hi>) but he would not proſecute her. True it was, he had put in an Indictment againſt her, but he could not help that. Well <hi>Moll,</hi> ſaid he to her, <hi>Have ye all your things?</hi> She ſaid, <hi>Yes.</hi> But, ſaid he, <hi>Moll, Why do you ſtay here a<g ref="char:EOLhyphen"/>mongst ſuch wicked company, Rogues and Whores? I ſee their Irons about their Legs.</hi> VVhy, ſaid ſhe, <hi>I have left ſome Linnen ingaged in the Cel<g ref="char:EOLhyphen"/>lar.</hi> To the Cellar the Keeper carried them both; and there <hi>Billing</hi> left a note under his hand,
+<pb n="111" facs="tcp:152596:138"/>to pay five ſhillings to the Tap<g ref="char:EOLhyphen"/>ſter: VVhich Note he hath to produce, to ſatisfie any that ſhall make further Enquiry in this particular.</p>
+            <p>He further ſaid, That ſhe had cheated him of fourty pounds, and that he would pawn the Leaſe of his houſe, rather then ſhe ſhould want Money, al<g ref="char:EOLhyphen"/>though ſhe was a wicked Rogue, if ſhe would but live with him: ſhe promiſed ſhe would. He told her he would give her a Sky-co<g ref="char:EOLhyphen"/>lour'd Silk Petticoat and Waſt<g ref="char:EOLhyphen"/>coat, and a Podeſway Gown, new <hi>Holland</hi> for Smocks, and all other things neceſſary. <hi>Billing</hi> turning himſelf to the Compa<g ref="char:EOLhyphen"/>ny there preſent, ſaid merrily, <hi>That ſhe had coſt him much before when he married her, but he never lay with her, but he had kiſt her, and felt her a hundred times. Billing</hi> askt her again, if ſhe would leave theſe
+<pb n="112" facs="tcp:152596:139"/>wicked Rogues, and go along with him. She ſaid, ſhe had a<g ref="char:EOLhyphen"/>nother Debt to pay: He askt what it was; She ſaid, twenty pounds to ſuch a one, a ſtranger then preſent, unto which perſon he gave a note to pay 20 <hi>l.</hi> in one moneth after the Date thereof: (it's more then probable he will be made ſo to do.)</p>
+            <p>He further ſaid to her, <hi>That now it will trouble me to pay all this Money, and then you to run away from me in a ſhort time.</hi> Withall, ſaid he, <hi>Moll, You need not, for I have a better estate then the young man that tried you for your Life.</hi> So gave the particulars of his E<g ref="char:EOLhyphen"/>ſtate, what in Money, Houſes, Leaſes and Land. He added moreover, that he did love her out of meaſure, notwithſtanding ſhe had done him other miſ<g ref="char:EOLhyphen"/>chiefs, then what he had before mentioned. She askt him, what
+<pb facs="tcp:152596:139"/>
+               <pb facs="tcp:152596:140"/>
+               <pb n="113" facs="tcp:152596:140"/>they were? He ſaid, She had ſtol<g ref="char:EOLhyphen"/>len from his Daughter a Knife and a wrought Sheath, a Hand<g ref="char:EOLhyphen"/>kercher, and a Seal'd Ring. With that, the ſtanders by told him, that he was miſtaken, that this <hi>Grizell Hudſon</hi> was not the per<g ref="char:EOLhyphen"/>ſon. He ſwore it was, and that he knew her well enough; that he ſaw her in the <hi>Gate-houſe,</hi> and that ſhe knew what paſſed be<g ref="char:EOLhyphen"/>tween us there: <hi>But,</hi> ſaid he, <hi>Moll, Thou art a cunning Rogue; I deſire nothing of thee but to be honeſt, and live with me;</hi> the which ſhe promiſed, and he parted with great content thereupon.</p>
+            <p>This affront and indeed diſ<g ref="char:EOLhyphen"/>grace <hi>I</hi> put to the other; but am very ſorry the poor old Fellow ſhould be abuſed ſo by my Re<g ref="char:EOLhyphen"/>lations; the ſecond part or worſe of the cheat of a cunning Gypſie, who having inveagled his affections, and ſet him on
+<pb n="114" facs="tcp:152596:141"/>edge by ſome laſcivious geſture, entangled him in a marriage; and for the better port and ce<g ref="char:EOLhyphen"/>lebtation of the Nuptials, pro<g ref="char:EOLhyphen"/>cured him twenty pound from a friend of hers, for which he gave Bond, (the Duplicate of this ſto<g ref="char:EOLhyphen"/>ry) and when bed-time came, and the ruſty Bridegroom had prepared himſelf, he ran away in the dark with moſt of the money, and ſome odd things, as Linen, and the like, and never after ap<g ref="char:EOLhyphen"/>peared, till thoſe skilful Conju<g ref="char:EOLhyphen"/>rers of <hi>Grey Fryars (in quo pecca<g ref="char:EOLhyphen"/>mus, in eo plectimur;</hi> where my fault was in deſerting my firſt ſtation among the Religious, from the like demoliſhed place am <hi>I</hi> puniſhed) raiſed up my white name, and made me per<g ref="char:EOLhyphen"/>fonate the baſeneſs of that Im<g ref="char:EOLhyphen"/>poſture.</p>
+            <p>To proceeed: I might now very well be ſaid to be ſet at li<g ref="char:EOLhyphen"/>betry,
+<pb facs="tcp:152596:141"/>
+               <pb facs="tcp:152596:142"/>
+               <pb n="115" facs="tcp:152596:142"/>having no where to go, or where to betake my ſelf: for the Verdict did not reach to give me poſſeſſion of my Husband, whoſe Wife <hi>I</hi> was declared to be, (the Jury telling my young Lord, up<g ref="char:EOLhyphen"/>on his asking of them the Ver<g ref="char:EOLhyphen"/>dict, as they were coming through the Garden of their Seſ<g ref="char:EOLhyphen"/>ſions-Houſe into the Court, <hi>That he muſt make much of his Princeſs, and keep her to himſelf:</hi>) Nor was it eaſie to avoid the trouble of twenty ſeveral Courtiſhips for Lodgings, which <hi>I</hi> well conſider<g ref="char:EOLhyphen"/>ed might give further occaſion of reproach, and abuſe of my Cre<g ref="char:EOLhyphen"/>dit.</p>
+            <p>But Mr. <hi>Carleton</hi> not appear<g ref="char:EOLhyphen"/>ing, which gave me ſuſpition of ſome further deſigne, I took Lodgings in <hi>Fullers Rents,</hi> where in privacy I reſolved to wait the reduction of him to better and honeſter thoughts; and that
+<pb n="116" facs="tcp:152596:143"/>when they his friends had all pre<g ref="char:EOLhyphen"/>judice laid aſide, and conſidered the duty and obligation that lay upon him, they would have re<g ref="char:EOLhyphen"/>ſtored and returned him to me. But this neither had its deſigned end, though the danger that I threatned his father with, brought him to me.</p>
+            <p>This was on Sunday in the E<g ref="char:EOLhyphen"/>vening, <hi>June</hi> the ſixth, when he came to me, accompanied with Mr. <hi>George Hewyt</hi> his Maſter, a Barriſter of <hi>Grays Inne</hi> in <hi>Coney</hi>-Court; where after ſome diſ<g ref="char:EOLhyphen"/>courſes, and perſeverance of my reſolved manner of proceeding againſt his Father in the ſame method, and at the ſame Bar where he had arraigned me; he did moſt ſubmiſſively ſupplicate me, and adjure me by all reſpects to him, falling upon his knees to move me the ſooner, that I would promiſe him not to proſe<g ref="char:EOLhyphen"/>cute
+<pb n="117" facs="tcp:152596:143"/>his father for my Jewels, or any other account: adding moreover, That if I did it, he ſhould preſently murther him<g ref="char:EOLhyphen"/>ſelf; with ſuch-like cowardly Bravado's as he had uſed to the over-ruling of my affections, when he pretended he would do an hundred more miſchiefs to himſelf, if <hi>I</hi> would not conſent to marry him.</p>
+            <p>And now he reſumed his firſt kindneſſes, in hope <hi>I</hi> would do what he intreated; kiſſed me, and offered his embraces: though I could not ſo eaſily admit ſuch danger into my boſome, having ſo lately felt the viperous ſting: but this loving humour, like a time-ſerving paſſion, ſoon aba<g ref="char:EOLhyphen"/>ted by the interpoſition of Mr. <hi>Hewyt.</hi>
+            </p>
+            <p>I do ſuppoſe, that if he had been alone, and out of the cu<g ref="char:EOLhyphen"/>ſtody and tuition of that per<g ref="char:EOLhyphen"/>ſon,
+<pb n="118" facs="tcp:152596:144"/>he would have ſtayed with me all night, and perhaps for the future; but that perſon who hath ſurfeited may be, and hath had too much of a woman, had now ſo little reſpects for our ſex, as to curſe it in generall: but let him beware, as froward and as great a woman-hater as he is, leſt he expiate thoſe Maledicti<g ref="char:EOLhyphen"/>ons, by ſome notable feminine revenge a ſteeping and prepa<g ref="char:EOLhyphen"/>ring for him.</p>
+            <p>Next day I ſent a Letter to my husband, and left it for him at Maſter <hi>Hewits</hi> Chamber: but through his means, as I can con<g ref="char:EOLhyphen"/>ceive no otherwiſe, I received no word of any anſwer; ſo that I reſolved once for all to go and make a demand of my ſaid goods and Jewels of old Mr. <hi>Carlton;</hi> which I did on <hi>Fryday</hi> night, the 19th of <hi>June,</hi> at his houſe at <hi>Gray-Friars;</hi> and knocking at
+<pb facs="tcp:152596:144"/>
+               <pb facs="tcp:152596:145"/>
+               <pb n="119" facs="tcp:152596:145"/>Dore, he himſelf asked who was there: I anſwered, Your Daugh<g ref="char:EOLhyphen"/>ter when a Princeſs, but now your ſons wife: he demanded my buſineſs; I told him I came to demand my Jewells, and o<g ref="char:EOLhyphen"/>ther things he had taken from me, and alſo my husbands Per<g ref="char:EOLhyphen"/>ſon. He replied in ſhort, the old Gentlewoman pulling him back from further diſcourſe, That for the Jewels, my husband had them; and for himſelf, he was gone.</p>
+            <p>There being no more to be ſaid or done, I bid them look to their hits, and departed: having on all occaſions, after ſo many injuries ſuſtained, proffered a re<g ref="char:EOLhyphen"/>conciliation, being willing to co<g ref="char:EOLhyphen"/>habit with him, and have left no means unattempted to bring us together, that the world might ſee I am not ſuch a looſe irregu<g ref="char:EOLhyphen"/>lar leud woman as I am ſlander<g ref="char:EOLhyphen"/>ed
+<pb n="120" facs="tcp:152596:146"/>to be, by my carriage and de<g ref="char:EOLhyphen"/>meanour in that relation of a wife, which title I am more am<g ref="char:EOLhyphen"/>bitious of then any other yet put upon me: but ſince it muſt be otherwiſe, I doubt not ſo pru<g ref="char:EOLhyphen"/>dently and innocently to behave my ſelf, as I ſhall not want a husband, much leſs the trouble of ſo impertinent and fickle a perſon as my husband, whom I would willingly exchange for my Jewels, and give him liberty to look after another Princeſs where he can finde her.</p>
+            <p>And now for that <hi>Hocus Pocus,</hi> the delaying of thoſe counter<g ref="char:EOLhyphen"/>feit Jewels, as they talked, I ſhall make it no difficulty to prove that thoſe Gems they had of me were none of their Briſtol-ſtones, or ſuch-like trumpery: for not long after my tryal, they were offered in <hi>Cheap-ſide</hi> to the view of a Goldſmith, and he de<g ref="char:EOLhyphen"/>manded
+<pb facs="tcp:152596:146"/>
+               <pb facs="tcp:152596:147"/>
+               <pb n="121" facs="tcp:152596:147"/>what they might be worth; who having ſteadily and conſiderately lookt them all o<g ref="char:EOLhyphen"/>ver, ſaid, they were worth 1500 <hi>l.</hi> At which the Truſtee, or Fidu<g ref="char:EOLhyphen"/>ciary, in whoſe hands they were, askt the Gold-ſmith if he was mad, or knew what he ſaid. Yes, that I do, replied he, and will preſently lay you down ſo much money for them, if you have power to ſell them: whereupon my Gentleman put up his coun<g ref="char:EOLhyphen"/>terfeit ware with a more coun<g ref="char:EOLhyphen"/>terfeit face, ſaying, he came only to try his skill, and departed.</p>
+            <p>And now let all the world judge of the Cheat I have put upon this worſhipfull family of the <hi>Carletons.</hi> I have of theirs not a thred, nor piece of any thing, to be a token or remem<g ref="char:EOLhyphen"/>brance of my beloved Lord, which I might preſerve and lay up as a ſacred relique of a per<g ref="char:EOLhyphen"/>ſon
+<pb n="122" facs="tcp:152596:148"/>dear to me (I think indeed the deareſt that ever woman had.)</p>
+            <p>But it may be they intend to furniſh my Lord with this por<g ref="char:EOLhyphen"/>table and honourable furniture to the ſecond part of this <hi>Guſ<g ref="char:EOLhyphen"/>man</hi>-ſtory, againſt he ſhall knight-errant it abroad; and having found the way, marry ſome other great forreign Lady, and in ſtead of Boys whooping and hallowing at him here, be revered and adored by ſub<g ref="char:EOLhyphen"/>jects, as his great ſpirit alwayes divined and ſuggeſted to him he ſhould be ſome-body, though to little purpoſe: but I hope to prevent that deſigne, and to have ſpeedy redreſs againſt all this fraud and violence that hath been acted againſt me.</p>
+            <p>And now I have concluded the Narrative, and I hope to the ſatisfaction of the world: and
+<pb n="123" facs="tcp:152596:148"/>if there be any thing not ſo ele<g ref="char:EOLhyphen"/>gantly and clearly expreſſed as mycauſe requires, let it be known it is my fathers, not my fault, which hath in ſome places di<g ref="char:EOLhyphen"/>ſturbed and muddied my fancy, and in others reſerved a hiding place and obſcurity for my pur<g ref="char:EOLhyphen"/>ſued honour.</p>
+            <p>I hope the ingenuous will par<g ref="char:EOLhyphen"/>don and admit of this defence, conſidering the nature of it. No man is bound by any law to ſet forth more then what he is di<g ref="char:EOLhyphen"/>rectly interrogated and queſti<g ref="char:EOLhyphen"/>oned to; and there I have for my innocence ſake exceeded. And for the ignorant and malicious, let them wonder and ſlander on; and when they ſhall give me worthy occaſion, which is not in the capacity of their ſhallow brains, or in their diſhoneſt inten<g ref="char:EOLhyphen"/>tions, to a further vindication; that is, when my relations ſhall
+<pb n="124" facs="tcp:152596:149"/>have returned me what they took from me, and leave me <hi>in statu quo,</hi> by any handſome expedient, I ſhall not faile of making this diſcourſe moſt evident demon<g ref="char:EOLhyphen"/>ſtration, and deſcend to ſuch un<g ref="char:EOLhyphen"/>deniable proofe of every parti<g ref="char:EOLhyphen"/>cular here, that ſhall make their impudence and raſh folly one of the leudeſt ſtories of the Age.</p>
+            <p>The world uſually and fre<g ref="char:EOLhyphen"/>quently judges as it likes and af<g ref="char:EOLhyphen"/>fects, and is altogether ſwayed by intereſt and humour; and e<g ref="char:EOLhyphen"/>ven by that, amidſt all thoſe in<g ref="char:EOLhyphen"/>duſtrious calumnies, I dare ſtand or fall. Let my quality and con<g ref="char:EOLhyphen"/>dition alone, and he is not weighed in the common ſcales; yet the fair conduct and the harmleſs example deſerves no cenſure. Let both alone, my ſex is to be pittied and reſpected, and my perſon not to be hated. But I will not proſtitute my
+<pb facs="tcp:152596:149"/>
+               <pb facs="tcp:152596:150"/>
+               <pb n="125" facs="tcp:152596:150"/>fame to them: to his Highneſs I have appealed, and to him I ſhall go. Not doubting but what the ſtrictneſs and nicety of the Law doth at preſent with<g ref="char:EOLhyphen"/>hold him, we ſhall by his graci<g ref="char:EOLhyphen"/>ous protection of innocence be freed from ſuch incumbrances; and ſome eaſier ſolution found for thoſe intricacies, then my Lawyers can at preſent expedite.</p>
+            <p>I am adviſed howſoever to proſecute my adverſaries in the ſame manner, and at the ſame Bar where they arraigned me for a ſuſpition, of a real ſuit of Fe<g ref="char:EOLhyphen"/>lony, for that riot againſt the publick peace committed upon my perſon: which I am reſolved to do, in caſe I receive not better ſatisfaction from them before the Seſſions: nor ſhall my hus<g ref="char:EOLhyphen"/>bands dilating intreaties and perſwaſions befool me any lon<g ref="char:EOLhyphen"/>ger.</p>
+            <q>
+               <pb n="126" facs="tcp:152596:151"/>
+               <l>
+                  <hi>Either love me, or leave me,</hi>
+               </l>
+               <l>
+                  <hi>And do not deceive me.</hi>
+               </l>
+            </q>
+            <p>The faſhions and cuſtoms here are much different from thoſe of our Country, where the wife ſhares an equal portion with her husband in all things of weal and woe, and can <hi>liber intentare,</hi> be<g ref="char:EOLhyphen"/>gin and commence, and finiſh a ſuit in her own name; they buy and ſell, and keep accounts, manage the affairs of houſhold, and the Trade, and do all things relating to their ſeverall ſtations and degrees. I have heard and did believe the Proverb, <hi>That</hi> England <hi>was a Heaven for women:</hi> but I never ſaw that Heaven de<g ref="char:EOLhyphen"/>ſcribed in its proper termes: for as to as much as I ſee of it, 'tis a very long proſpect, and almoſt diſappears to view; It is to be enjoyed but at ſecond hand, and
+<pb facs="tcp:152596:151"/>
+               <pb facs="tcp:152596:152"/>
+               <pb n="127" facs="tcp:152596:152"/>all by the husbands title; quite contrary to the cuſtome of the <hi>Ruſsians,</hi> where it is a piece of their Divinity, that becauſe it's ſaid that the Biſhop muſt be the husband of one wife, they put out of orders, and from all Eccleſia<g ref="char:EOLhyphen"/>ſtical function ſuch Clergy men, who by the Canon being bound to be married, are by death deprived of their wives; ſo that their tenure to their Livings and Preferments clearly depends up<g ref="char:EOLhyphen"/>on the welfare and long life of their yoake-fellows, in whoſe choice, as of ſuch moment to their well-being, they are very curi<g ref="char:EOLhyphen"/>ous, as they are afterwards in their care and preſervation of them.</p>
+            <p>I could inſtance in many other cuſtomes of nearer Nations, in reſpect to female right and pro<g ref="char:EOLhyphen"/>priety in their own Dowers, as well as in their husbands eſtates:
+<pb n="128" facs="tcp:152596:153"/>but, <hi>cum fueris Romae, Romano vivite more.</hi> I will not quarrel the En<g ref="char:EOLhyphen"/>gliſh Laws, which <hi>I</hi> queſtion not are calculated and well accom<g ref="char:EOLhyphen"/>modated to the genius and tem<g ref="char:EOLhyphen"/>per of the people.</p>
+            <p>While <hi>I</hi> mention theſe cu<g ref="char:EOLhyphen"/>ſtomes, <hi>I</hi> cannot forbear to com<g ref="char:EOLhyphen"/>plain of a very great rudeneſs and incivility to which the maſs and generality of the Engliſh vulgar are moſt pronely inclined, that is, to hoot and hallow, and purſue ſtrangers with their mul<g ref="char:EOLhyphen"/>titudes through the ſtreets, preſ<g ref="char:EOLhyphen"/>ſing upon them even to the dan<g ref="char:EOLhyphen"/>ger of their lives; and when once a cry, or ſome ſcandalous hu<g ref="char:EOLhyphen"/>mour is bruited among them, they become Brutes indeed. A Barbarity <hi>I</hi> thought could not poſſibly be in this Nation, whom <hi>I</hi> heard famed for ſo much civili<g ref="char:EOLhyphen"/>ty and urbanity. This I expe<g ref="char:EOLhyphen"/>rimented the other day in <hi>Fan<g ref="char:EOLhyphen"/>church</hi>-ſtreet,
+<pb n="129" facs="tcp:152596:153"/>as <hi>I</hi> was paſſing through it upon ſome occaſion, which being noiſed and ſcattered among the Prentices, <hi>I</hi> was for<g ref="char:EOLhyphen"/>ced to bethink of ſome ſhift and ſtratagem to avoid them, which was by putting my Maid into a Coach, that by good hap was at hand, and ſtepping into an ad<g ref="char:EOLhyphen"/>joyning Tavern; which the Herd miſtaking my Maid for me, and following the Coach as ſuppo<g ref="char:EOLhyphen"/>ſing me there for the conveni<g ref="char:EOLhyphen"/>ence thereof, gave me the oppor<g ref="char:EOLhyphen"/>tunity of eſcaping from them. A Regulation of this kind of up<g ref="char:EOLhyphen"/>roar by ſome ſevere penalties, would much conduce not onely to the honour of the Govern<g ref="char:EOLhyphen"/>ment of the City, but the whole Nation in general; having heard the French very much complain of the like injuries and affronts: but thoſe to me <hi>I</hi> may juſtly place to my husbands ac<g ref="char:EOLhyphen"/>count,
+<pb n="130" facs="tcp:152596:154"/>who hath expoſed me to the undeſerved wonder, and to be a May-game to the Town.</p>
+            <p>And to his debility and mean<g ref="char:EOLhyphen"/>neſs of ſpirit, I am likewiſe be<g ref="char:EOLhyphen"/>holding for ſome other ſcanda<g ref="char:EOLhyphen"/>lous Libels and Paſquils divul<g ref="char:EOLhyphen"/>ged upon this occaſion of our marriage; chiefly for the Ri<g ref="char:EOLhyphen"/>baldry of ſome pitiful Poetry, entituled, <hi>A Weſtminſter-wedding,</hi> which equally reflects as much upon himſelf as me. This tame<g ref="char:EOLhyphen"/>neſs of his doth hugely incenſe me; and I ſwear, were it not for the modeſty of my ſex, the bonds of which I will not be provoked to tranſgreſs, I would get ſatis<g ref="char:EOLhyphen"/>faction my ſelf of thoſe pitiful Fellows, who by this impudent and ſaucie ſcribling, do almoſt every day beſpatter my honour. At leaſt, I wonder my husband doth not vindicate himſelf, and aſſert his own individual Repu<g ref="char:EOLhyphen"/>tation,
+<pb facs="tcp:152596:154"/>
+               <pb facs="tcp:152596:155"/>
+               <pb n="131" facs="tcp:152596:155"/>having threatned ſo much in print againſt a civil perſon that formerly &amp; firſt of all endea<g ref="char:EOLhyphen"/>voured to clear and juſtifie mine.</p>
+            <p>But when I conſider how apt his kindred are to return to their vomit of ſlandering me, and re<g ref="char:EOLhyphen"/>ckoning the nine days wonder of their great cheat diſcovered is o<g ref="char:EOLhyphen"/>ver, are like thoſe that have eat ſhame and drank after it; I did the leſs wonder at his ſtupidity and ſenſleſsneſs of thoſe indigni<g ref="char:EOLhyphen"/>ties done him: and commonly thoſe that have no regard to ano<g ref="char:EOLhyphen"/>thers honour, have as little re<g ref="char:EOLhyphen"/>ſpect for their own; as he is Ma<g ref="char:EOLhyphen"/>ſter of another mans life, that is a Contemner of his own.</p>
+            <p>I ſhall therefore omit all the ſubſequent ſneaking Lyes, raiſed by the ſame kindred, when they ſaw their more mighty and po<g ref="char:EOLhyphen"/>tent Accuſations helped forward with ſuch prejudices, noiſe and
+<pb n="132" facs="tcp:152596:156" rendition="simple:additions"/>oſtentation, were at once diſap<g ref="char:EOLhyphen"/>pointed and blown to nothing: ſuch are thoſe Chimaera's of their framing and fancying, that <hi>I</hi> was ſeen in mans apparel, with a Sword and Feather, in deſigne to do miſchief to ſome body; and that I have uſed to do ſo: and ſo punctual are they in this Lye, as to name both the time and place: that I reſolved to ſet up a Coffee<g ref="char:EOLhyphen"/>houſe, and at laſt to turn Player or Actor: with an hundred o<g ref="char:EOLhyphen"/>ther flams to ſully my Name, and of a multitude of the like, to make one or other of thoſe Ca<g ref="char:EOLhyphen"/>lumnies and Reproaches to ſtick upon me.</p>
+            <p>Whereas on the contrary I do reſolve, as ſoon as my cauſe is heard, and juſtice done me by the ſupreme-power, if I cannot o<g ref="char:EOLhyphen"/>therwiſe attain it, to retire and return back, though not imme<g ref="char:EOLhyphen"/>diately to my own home, yet to
+<pb facs="tcp:152596:156"/>
+               <pb facs="tcp:152596:157"/>
+               <pb n="133" facs="tcp:152596:157"/>make ſuch approaches at neceſ<g ref="char:EOLhyphen"/>ſary diſtance for the preſent, that I might be in a readineſs and view of all tranſactions there, as ſoon as this bluſter ſhall be ſo laid here, that I ſhall not fear the tayl of this Hurricane purſuing me: yet ſhall I always have my heart and my Arms open to Mr. <hi>Carleton,</hi> as a perſon whom for his Perſon and Naturals I do and ſhall ever affect, as his wife and my husband, maugre all thoſe practices (as for my part) of ren<g ref="char:EOLhyphen"/>dring us mutually hateful and ſuſpect to each other.</p>
+            <p>And while <hi>I</hi> thus open the way to a compoſure of this un<g ref="char:EOLhyphen"/>happy buſineſs, and am willing to put up ſo many private inju<g ref="char:EOLhyphen"/>ries, and publick contumelies and diſparagements, in tendencie to, and in conſideration of the rela<g ref="char:EOLhyphen"/>tive ſtate of marriage, which my conſcience commands me to pre<g ref="char:EOLhyphen"/>fer
+<pb n="134" facs="tcp:152596:158"/>before any advantage, reſpect or honour of mine own indivi<g ref="char:EOLhyphen"/>dual particular; and have not refuſed, but rather by all fair means, and too mean condeſcen<g ref="char:EOLhyphen"/>tions have courted an Accom<g ref="char:EOLhyphen"/>modation and Agreement; what Injuſtice is it upon Injuſtice, Op<g ref="char:EOLhyphen"/>preſſion upon Cruelty, refined Malice like Salt upon Salt, to pierce and exaſperate that bo<g ref="char:EOLhyphen"/>ſome which is full of ſo much in<g ref="char:EOLhyphen"/>dulgence to, and dallyance with their worſt of injuries, in expe<g ref="char:EOLhyphen"/>ctation that time would give them to ſee their miſchievous er<g ref="char:EOLhyphen"/>rour?</p>
+            <p>But neither Time nor Truth it ſelf will reclaim them, without Angels appear to confirm them in it. And <hi>I</hi> do in ſome part not blame them for it: for the exceſs and lofty ſtructure of their hopes hath ſo dazled their looks downwards, that they can ſee
+<pb facs="tcp:152596:158"/>
+               <pb facs="tcp:152596:159"/>
+               <pb n="135" facs="tcp:152596:159"/>nothing aright, nor in any true proportion or colour. Their de<g ref="char:EOLhyphen"/>jection and fall from the pinacle of their ambition, hath quite ſtunned them, that they will hardly recover the dizzie miſtake that lies between a <hi>Princeſs</hi> and a <hi>Prentice.</hi>
+            </p>
+            <p>They are angry their golden Mountains have travelled and been in labour with a Mouſe, and that they cannot finger any of my Eſtate; and very importu<g ref="char:EOLhyphen"/>nate they are for me to declare it; and this they ſay is the onely argument to prove me no Cheat, and <hi>I</hi> ſay and believe it is the onely argument to prove me a fool; and with that, of all other their ſlanders and durtineſs, they ſhall never abuſe me.</p>
+            <p>But may not <hi>I</hi> with a great deal more reaſon enquire for, and demand my Joynture and
+<pb n="136" facs="tcp:152596:160"/>Dowry? and thoſe Mannors, Leaſes, Parks, Houſes, and the like Rhapſodies and Fictions of an Eſtate, meer caſtles in the Air; and as one merrily ſince told me, he believed they were Birds Neſts? It is ſure a greater im<g ref="char:EOLhyphen"/>putation and ſhame to them to be found ſuch Cheats and Lyars, then it can be the leaſt blur to me, who never avowed any ſuch thing, nor boaſted of my Quality and Fortune.</p>
+            <p>As to the Letters they inter<g ref="char:EOLhyphen"/>cepted of mine from my Steward, I wonder they do not produce them: but they are aſhamed of their moſt ridiculous ſimplicity therein. I knew very well the uncertainty of my condition here; and therefore the Letters were meerly Cyphers, and under thoſe terms of Moneys, <hi>&amp;c.</hi> an account was given me of another
+<pb facs="tcp:152596:160"/>
+               <pb facs="tcp:152596:161"/>
+               <pb n="137" facs="tcp:152596:161"/>affair at home: the diſtaſte whereof made me comply with, and ſo ſoon yeild to thoſe impor<g ref="char:EOLhyphen"/>tunate and love-ſick ſollicitati<g ref="char:EOLhyphen"/>ons of my Lord.</p>
+            <p>But what will they be the bet<g ref="char:EOLhyphen"/>ter for a Rent-roll, or particulars of an eſtate in <hi>Germany,</hi> the Te<g ref="char:EOLhyphen"/>nure and Cuſtomes of whoſe propriety and nature of claime if they did know, yet could they not tell how to make their Title to it? I could eaſily name places, and diſcover my own Heredita<g ref="char:EOLhyphen"/>ments perhaps without danger, and they never the wiſer: nor will the impartial Reader be bet<g ref="char:EOLhyphen"/>ter ſatisfied. But if my ſiſter <hi>King,</hi> or any of my kinsfolk long for ſome <hi>Baccharach</hi> grapes, I'll ſend to my Steward for them, and he will convey them from mine own vineyard as ſoon as they are
+<pb n="138" facs="tcp:152596:162"/>ripe; and I can furniſh her hus<g ref="char:EOLhyphen"/>band with <hi>Weſtphalia</hi> Hams, which run in my woods gratis. All thoſe fine things I have ſtore of: and when Mr. <hi>Carlton</hi> pleaſes to make it a ſurer match, and be married the third time, all things ſhall be done in ample manner: I will make a reſigna<g ref="char:EOLhyphen"/>tion of my whole eſtate, and have nothing ſetled in lieu of it, but a neceſſitous deſpiſed con<g ref="char:EOLhyphen"/>dition of life, and be taught to ſing <hi>Fortune my foe</hi> to the plea<g ref="char:EOLhyphen"/>ſant new tune, or eccho of a <hi>Cheat.</hi>
+            </p>
+            <p>But I truſt Providence will better govern me, and put me up<g ref="char:EOLhyphen"/>on no neceſſity of abandoning good and juſt reſolutions I have made to my ſelf, whether in caſe of ſeparation or re-union, which I ſhall not over-fondly preſs, or
+<pb facs="tcp:152596:162"/>
+               <pb facs="tcp:152596:163"/>
+               <pb n="139" facs="tcp:152596:163" rendition="simple:additions"/>urge from them who love not me but mine, and require ſignes and wonders, and love to be no leſs then Principalities.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
